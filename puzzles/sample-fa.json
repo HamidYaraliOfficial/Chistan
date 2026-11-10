@@ -1,0 +1,5209 @@
+{
+ "language": "fa",
+ "count": 20,
+ "puzzles": [
+  {
+   "id": "fa-L01-1",
+   "lang": "fa",
+   "level": 1,
+   "rows": 4,
+   "cols": 5,
+   "seed": 112659,
+   "grid": [
+    [
+     "ی",
+     "خ",
+     "چ",
+     "ا",
+     "ل"
+    ],
+    [
+     "ا",
+     null,
+     "ر",
+     null,
+     null
+    ],
+    [
+     "س",
+     "م",
+     "ا",
+     "و",
+     "ر"
+    ],
+    [
+     null,
+     null,
+     "غ",
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 0,
+     "length": 5,
+     "answer": "یخچال",
+     "clue": "نگهدارندهٔ سرد خوراکی"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 5,
+     "answer": "سماور",
+     "clue": "ابزار جوشاندن آب برای چای"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 0,
+     "length": 3,
+     "answer": "یاس",
+     "clue": "گل سفید و خوش‌بو"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 4,
+     "answer": "چراغ",
+     "clue": "شب را روز می‌کند"
+    }
+   ]
+  },
+  {
+   "id": "fa-L02-1",
+   "lang": "fa",
+   "level": 2,
+   "rows": 5,
+   "cols": 5,
+   "seed": 217388,
+   "grid": [
+    [
+     "ش",
+     "ن",
+     "ا",
+     null,
+     "خ"
+    ],
+    [
+     null,
+     "ا",
+     null,
+     null,
+     "ز"
+    ],
+    [
+     "س",
+     "ن",
+     "ت",
+     "و",
+     "ر"
+    ],
+    [
+     null,
+     null,
+     "پ",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ه",
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 0,
+     "length": 3,
+     "answer": "شنا",
+     "clue": "حرکت در آب"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 5,
+     "answer": "سنتور",
+     "clue": "ساز زهی با دو مضراب"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 1,
+     "length": 3,
+     "answer": "نان",
+     "clue": "روزی هر روزِ سفره"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 3,
+     "answer": "خزر",
+     "clue": "بزرگ‌ترین دریاچهٔ جهان"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 2,
+     "length": 3,
+     "answer": "تپه",
+     "clue": "کوهِ کوچک"
+    }
+   ]
+  },
+  {
+   "id": "fa-L03-1",
+   "lang": "fa",
+   "level": 3,
+   "rows": 6,
+   "cols": 6,
+   "seed": 322117,
+   "grid": [
+    [
+     "ه",
+     null,
+     null,
+     null,
+     null,
+     "س"
+    ],
+    [
+     "ن",
+     "ا",
+     "ر",
+     "ن",
+     "ج",
+     "ی"
+    ],
+    [
+     "ر",
+     null,
+     "ع",
+     null,
+     null,
+     "ب"
+    ],
+    [
+     null,
+     "م",
+     "د",
+     "ا",
+     "د",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ب",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ر",
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 6,
+     "answer": "نارنجی",
+     "clue": "رنگ پوست هویج"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 3,
+     "col": 1,
+     "length": 4,
+     "answer": "مداد",
+     "clue": "نوشتنی که پاک می‌شود"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 0,
+     "length": 3,
+     "answer": "هنر",
+     "clue": "نقاشی و موسیقی و شعر"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 3,
+     "answer": "سیب",
+     "clue": "میوه‌ای گرد با رنگ‌های سرخ و زرد"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 2,
+     "length": 3,
+     "answer": "رعد",
+     "clue": "غرش آسمان"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 3,
+     "col": 3,
+     "length": 3,
+     "answer": "ابر",
+     "clue": "پنبهٔ آسمان"
+    }
+   ]
+  },
+  {
+   "id": "fa-L04-1",
+   "lang": "fa",
+   "level": 4,
+   "rows": 7,
+   "cols": 7,
+   "seed": 426846,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "د",
+     null
+    ],
+    [
+     "ق",
+     null,
+     null,
+     null,
+     null,
+     "م",
+     null
+    ],
+    [
+     "ه",
+     null,
+     "ب",
+     "ا",
+     "ز",
+     "ا",
+     "ر"
+    ],
+    [
+     "و",
+     null,
+     "ی",
+     null,
+     null,
+     "و",
+     null
+    ],
+    [
+     "ه",
+     "ن",
+     "د",
+     "و",
+     "ا",
+     "ن",
+     "ه"
+    ],
+    [
+     null,
+     "و",
+     null,
+     null,
+     null,
+     "د",
+     null
+    ],
+    [
+     null,
+     "ر",
+     "ش",
+     "ت",
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 5,
+     "answer": "بازار",
+     "clue": "جای خرید و فروش"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 7,
+     "answer": "هندوانه",
+     "clue": "میوهٔ سرخ و شیرین شب یلدا"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 6,
+     "col": 1,
+     "length": 3,
+     "answer": "رشت",
+     "clue": "مرکز گیلان"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 6,
+     "answer": "دماوند",
+     "clue": "بلندترین قلهٔ ایران"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 1,
+     "col": 0,
+     "length": 4,
+     "answer": "قهوه",
+     "clue": "نوشیدنی تلخ و بیدارکننده"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 2,
+     "length": 3,
+     "answer": "بید",
+     "clue": "درخت شاخه‌های آویزان"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "نور",
+     "clue": "دشمن تاریکی"
+    }
+   ]
+  },
+  {
+   "id": "fa-L05-1",
+   "lang": "fa",
+   "level": 5,
+   "rows": 7,
+   "cols": 7,
+   "seed": 531575,
+   "grid": [
+    [
+     null,
+     null,
+     "ط",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "و",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ف",
+     "ر",
+     "ش",
+     null,
+     "د"
+    ],
+    [
+     "ب",
+     null,
+     "ا",
+     null,
+     "ه",
+     null,
+     "ش"
+    ],
+    [
+     "ا",
+     "ی",
+     "ن",
+     "ت",
+     "ر",
+     "ن",
+     "ت"
+    ],
+    [
+     "غ",
+     null,
+     null,
+     "و",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ت",
+     "خ",
+     "ت",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 3,
+     "answer": "فرش",
+     "clue": "زیرانداز نقش‌دار"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 7,
+     "answer": "اینترنت",
+     "clue": "شبکهٔ جهانی اتصال"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 6,
+     "col": 3,
+     "length": 3,
+     "answer": "تخت",
+     "clue": "جای خواب"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 5,
+     "answer": "طوفان",
+     "clue": "باد سهمگین و ویرانگر"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 3,
+     "answer": "شهر",
+     "clue": "محل زندگی گروه بزرگ مردم"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 2,
+     "col": 6,
+     "length": 3,
+     "answer": "دشت",
+     "clue": "زمین هموار و گسترده"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 0,
+     "length": 3,
+     "answer": "باغ",
+     "clue": "زمین پر از درخت"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 4,
+     "col": 3,
+     "length": 3,
+     "answer": "توت",
+     "clue": "میوهٔ ریز و رنگی درخت"
+    }
+   ]
+  },
+  {
+   "id": "fa-L06-1",
+   "lang": "fa",
+   "level": 6,
+   "rows": 7,
+   "cols": 7,
+   "seed": 636304,
+   "grid": [
+    [
+     "خ",
+     "ی",
+     "ا",
+     "ر",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "م",
+     null,
+     "ک",
+     "ف",
+     "ش"
+    ],
+    [
+     "س",
+     null,
+     "ی",
+     null,
+     null,
+     "ض",
+     null
+    ],
+    [
+     "ب",
+     "ا",
+     "د",
+     "م",
+     "ج",
+     "ا",
+     "ن"
+    ],
+    [
+     "ز",
+     null,
+     null,
+     null,
+     "غ",
+     null,
+     "ق"
+    ],
+    [
+     "ی",
+     "ز",
+     "د",
+     null,
+     "د",
+     null,
+     "ا"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ش"
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 0,
+     "length": 4,
+     "answer": "خیار",
+     "clue": "سبزی سبز و خنک"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 1,
+     "col": 4,
+     "length": 3,
+     "answer": "کفش",
+     "clue": "پوشش پا"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 3,
+     "col": 0,
+     "length": 7,
+     "answer": "بادمجان",
+     "clue": "سبزی بنفش و براق"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 3,
+     "answer": "یزد",
+     "clue": "شهر بادگیرها"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 4,
+     "answer": "امید",
+     "clue": "روشنی در دل تاریکی"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 5,
+     "length": 3,
+     "answer": "فضا",
+     "clue": "کیهان بی‌انتها"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 0,
+     "length": 4,
+     "answer": "سبزی",
+     "clue": "برگ خوراکی همراه نان و پنیر"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 4,
+     "length": 3,
+     "answer": "جغد",
+     "clue": "پرندهٔ شب‌بیدار"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 3,
+     "col": 6,
+     "length": 4,
+     "answer": "نقاش",
+     "clue": "رنگ‌آمیز بوم و دیوار"
+    }
+   ]
+  },
+  {
+   "id": "fa-L07-1",
+   "lang": "fa",
+   "level": 7,
+   "rows": 7,
+   "cols": 7,
+   "seed": 741033,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     "ع",
+     "ش",
+     "ق",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ی",
+     null,
+     "ا",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ن",
+     "ق",
+     "ش",
+     "ه"
+    ],
+    [
+     null,
+     "ن",
+     "م",
+     "ک",
+     null,
+     "ق",
+     null
+    ],
+    [
+     "چ",
+     null,
+     "ا",
+     null,
+     "م",
+     null,
+     "آ"
+    ],
+    [
+     "ش",
+     "ا",
+     "ه",
+     "ن",
+     "ا",
+     "م",
+     "ه"
+    ],
+    [
+     "م",
+     null,
+     "ی",
+     null,
+     "ر",
+     null,
+     "و"
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 3,
+     "length": 3,
+     "answer": "عشق",
+     "clue": "شور دل"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 2,
+     "col": 3,
+     "length": 4,
+     "answer": "نقشه",
+     "clue": "تصویر راهنمای مسیر"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 3,
+     "col": 1,
+     "length": 3,
+     "answer": "نمک",
+     "clue": "طعم‌دهندهٔ سفید و شور"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 7,
+     "answer": "شاهنامه",
+     "clue": "حماسهٔ بزرگ فردوسی"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 4,
+     "answer": "عینک",
+     "clue": "یاور چشم ضعیف"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 4,
+     "answer": "قاشق",
+     "clue": "ابزار غذاخوری"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 2,
+     "length": 4,
+     "answer": "ماهی",
+     "clue": "ساکن آب که با آبشش نفس می‌کشد"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 4,
+     "col": 0,
+     "length": 3,
+     "answer": "چشم",
+     "clue": "عضو بینایی"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 4,
+     "col": 4,
+     "length": 3,
+     "answer": "مار",
+     "clue": "خزندهٔ بی‌دست‌وپا"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 6,
+     "length": 3,
+     "answer": "آهو",
+     "clue": "جانور چشم‌سیاه و تیزپا"
+    }
+   ]
+  },
+  {
+   "id": "fa-L08-1",
+   "lang": "fa",
+   "level": 8,
+   "rows": 7,
+   "cols": 9,
+   "seed": 845762,
+   "grid": [
+    [
+     null,
+     "غ",
+     null,
+     "پ",
+     "ا",
+     "ر",
+     "ک",
+     null,
+     null
+    ],
+    [
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     "و",
+     null,
+     null,
+     null
+    ],
+    [
+     "م",
+     "ر",
+     "غ",
+     "ا",
+     "ب",
+     "ی",
+     null,
+     null,
+     "خ"
+    ],
+    [
+     null,
+     null,
+     null,
+     "ت",
+     null,
+     "ا",
+     "ن",
+     "ا",
+     "ر"
+    ],
+    [
+     null,
+     "گ",
+     "ر",
+     "م",
+     "ا",
+     null,
+     "خ",
+     null,
+     "گ"
+    ],
+    [
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     null,
+     "ل",
+     null,
+     "و"
+    ],
+    [
+     "د",
+     "و",
+     "چ",
+     "ر",
+     "خ",
+     "ه",
+     null,
+     null,
+     "ش"
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 0,
+     "col": 3,
+     "length": 4,
+     "answer": "پارک",
+     "clue": "فضای سبز شهر"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 6,
+     "answer": "مرغابی",
+     "clue": "پرندهٔ شناگر برکه"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 3,
+     "col": 5,
+     "length": 4,
+     "answer": "انار",
+     "clue": "میوهٔ دانه‌یاقوتی"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 4,
+     "answer": "گرما",
+     "clue": "نقطهٔ مقابل سرما"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 6,
+     "col": 0,
+     "length": 6,
+     "answer": "دوچرخه",
+     "clue": "دو چرخ و یک رکاب"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 1,
+     "length": 3,
+     "answer": "غار",
+     "clue": "حفره‌ای در دل کوه"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 4,
+     "answer": "رویا",
+     "clue": "تصویرهای خواب"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 3,
+     "length": 3,
+     "answer": "اتم",
+     "clue": "ریزترین ذرهٔ ماده"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 8,
+     "length": 5,
+     "answer": "خرگوش",
+     "clue": "گوش‌دراز دوست‌دارندهٔ هویج"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 3,
+     "col": 6,
+     "length": 3,
+     "answer": "نخل",
+     "clue": "درخت بلند خرما"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "گاو",
+     "clue": "جانور شیرده مزرعه"
+    }
+   ]
+  },
+  {
+   "id": "fa-L09-1",
+   "lang": "fa",
+   "level": 9,
+   "rows": 8,
+   "cols": 9,
+   "seed": 950491,
+   "grid": [
+    [
+     null,
+     null,
+     "ص",
+     "ح",
+     "ر",
+     "ا",
+     null,
+     null,
+     null
+    ],
+    [
+     "خ",
+     null,
+     "ن",
+     null,
+     "ب",
+     null,
+     "ب",
+     null,
+     null
+    ],
+    [
+     "ر",
+     "و",
+     "د",
+     "خ",
+     "ا",
+     "ن",
+     "ه",
+     null,
+     null
+    ],
+    [
+     "د",
+     null,
+     "ل",
+     null,
+     "ت",
+     null,
+     "ا",
+     null,
+     null
+    ],
+    [
+     null,
+     "ف",
+     "ی",
+     "ل",
+     null,
+     "ب",
+     "ر",
+     "ف",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ب",
+     null,
+     "ل",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "س",
+     "ح",
+     "ر",
+     null,
+     "ف",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ق",
+     "ل",
+     "ب"
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 2,
+     "length": 4,
+     "answer": "صحرا",
+     "clue": "زمین خشک و بی‌آب‌وعلف"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 7,
+     "answer": "رودخانه",
+     "clue": "آبِ جاری که به دریا می‌رسد"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "فیل",
+     "clue": "جانور خرطوم‌دار و غول‌پیکر"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 4,
+     "col": 5,
+     "length": 3,
+     "answer": "برف",
+     "clue": "پنبهٔ سفید زمستان"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 6,
+     "col": 3,
+     "length": 3,
+     "answer": "سحر",
+     "clue": "آغاز روشنایی روز"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 7,
+     "col": 6,
+     "length": 3,
+     "answer": "قلب",
+     "clue": "عضوی که می‌تپد"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 5,
+     "answer": "صندلی",
+     "clue": "چهارپایه‌ای با پشتی"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 4,
+     "answer": "ربات",
+     "clue": "انسان‌نمای مکانیکی"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 0,
+     "length": 3,
+     "answer": "خرد",
+     "clue": "عقل و دانایی"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 6,
+     "length": 4,
+     "answer": "بهار",
+     "clue": "فصل شکوفه‌ها"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 4,
+     "col": 5,
+     "length": 3,
+     "answer": "ببر",
+     "clue": "گربه‌سان بزرگ و راه‌راه"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 7,
+     "length": 4,
+     "answer": "فلفل",
+     "clue": "ادویهٔ تند و تیز"
+    }
+   ]
+  },
+  {
+   "id": "fa-L10-1",
+   "lang": "fa",
+   "level": 10,
+   "rows": 9,
+   "cols": 9,
+   "seed": 1055220,
+   "grid": [
+    [
+     "خ",
+     null,
+     "ع",
+     null,
+     "س",
+     null,
+     "ر",
+     "و",
+     "د"
+    ],
+    [
+     "ا",
+     "ل",
+     "ک",
+     "ت",
+     "ر",
+     "و",
+     "ن",
+     null,
+     null
+    ],
+    [
+     "ن",
+     null,
+     "س",
+     null,
+     "خ",
+     null,
+     "گ",
+     "ن",
+     "ج"
+    ],
+    [
+     "ه",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ا",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ت",
+     "ل",
+     "ف",
+     "ن",
+     null
+    ],
+    [
+     "د",
+     "ل",
+     "ف",
+     "ی",
+     "ن",
+     null,
+     null,
+     "و",
+     null
+    ],
+    [
+     "ف",
+     null,
+     null,
+     null,
+     "ب",
+     "ا",
+     "د",
+     "ا",
+     "م"
+    ],
+    [
+     "ت",
+     null,
+     null,
+     null,
+     "ک",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "ر",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 0,
+     "col": 6,
+     "length": 3,
+     "answer": "رود",
+     "clue": "آب روان میان دو ساحل"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 7,
+     "answer": "الکترون",
+     "clue": "ذرهٔ باردار منفی"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 6,
+     "length": 3,
+     "answer": "گنج",
+     "clue": "دفینهٔ پنهان"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 4,
+     "length": 4,
+     "answer": "تلفن",
+     "clue": "ابزار صحبت از راه دور"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 5,
+     "answer": "دلفین",
+     "clue": "پستاندار باهوش دریا"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 6,
+     "col": 4,
+     "length": 5,
+     "answer": "بادام",
+     "clue": "مغزی که شکوفه‌اش پیشاهنگ بهار است"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 0,
+     "length": 4,
+     "answer": "خانه",
+     "clue": "جای آرامش و زندگی"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 3,
+     "answer": "عکس",
+     "clue": "تصویر ثبت‌شده"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 3,
+     "answer": "سرخ",
+     "clue": "رنگ خون و انار"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 3,
+     "answer": "رنگ",
+     "clue": "سرخ و آبی و زرد"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 7,
+     "length": 5,
+     "answer": "نانوا",
+     "clue": "پخت‌کنندهٔ نان"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 4,
+     "length": 4,
+     "answer": "تنبک",
+     "clue": "ساز ضربی با کاسهٔ چوبی"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 5,
+     "col": 0,
+     "length": 4,
+     "answer": "دفتر",
+     "clue": "برگه‌های بسته‌شده برای نوشتن"
+    }
+   ]
+  },
+  {
+   "id": "fa-L11-1",
+   "lang": "fa",
+   "level": 11,
+   "rows": 9,
+   "cols": 9,
+   "seed": 1159949,
+   "grid": [
+    [
+     null,
+     "چ",
+     null,
+     null,
+     "چ",
+     "ا",
+     "ق",
+     "و",
+     null
+    ],
+    [
+     null,
+     "ت",
+     null,
+     "ز",
+     null,
+     null,
+     "ل",
+     null,
+     "گ"
+    ],
+    [
+     "پ",
+     "ر",
+     "چ",
+     "م",
+     null,
+     "س",
+     "م",
+     "ن",
+     "و"
+    ],
+    [
+     null,
+     null,
+     null,
+     "ی",
+     null,
+     "ی",
+     null,
+     null,
+     "ش"
+    ],
+    [
+     "ف",
+     "ض",
+     "ا",
+     "ن",
+     "و",
+     "ر",
+     "د",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ی",
+     null,
+     "ر",
+     null,
+     "ر",
+     null,
+     null
+    ],
+    [
+     "ن",
+     "و",
+     "ر",
+     "و",
+     "ز",
+     null,
+     "ی",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ا",
+     null,
+     "ش",
+     "ق",
+     "ا",
+     "ی",
+     "ق"
+    ],
+    [
+     null,
+     null,
+     "ن",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 0,
+     "col": 4,
+     "length": 4,
+     "answer": "چاقو",
+     "clue": "ابزار تیز آشپزخانه"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 4,
+     "answer": "پرچم",
+     "clue": "نماد هر کشور"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 2,
+     "col": 5,
+     "length": 4,
+     "answer": "سمنو",
+     "clue": "حلوای جوانهٔ گندم در سفرهٔ نوروزی"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 7,
+     "answer": "فضانورد",
+     "clue": "مسافر کیهان"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 6,
+     "col": 0,
+     "length": 5,
+     "answer": "نوروز",
+     "clue": "جشن آغاز بهار"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 7,
+     "col": 4,
+     "length": 5,
+     "answer": "شقایق",
+     "clue": "گل سرخ و کوهی بهاری"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 1,
+     "length": 3,
+     "answer": "چتر",
+     "clue": "سپر باران"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 3,
+     "answer": "قلم",
+     "clue": "ابزار نوشتن"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 3,
+     "length": 4,
+     "answer": "زمین",
+     "clue": "خانهٔ آبیِ ما در کیهان"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 1,
+     "col": 8,
+     "length": 3,
+     "answer": "گوش",
+     "clue": "عضو شنوایی"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 5,
+     "length": 3,
+     "answer": "سیر",
+     "clue": "حبه‌حبه و خوش‌خاصیت"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 4,
+     "col": 2,
+     "length": 5,
+     "answer": "ایران",
+     "clue": "سرزمین ما، گهوارهٔ تمدن"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 4,
+     "col": 4,
+     "length": 4,
+     "answer": "ورزش",
+     "clue": "حرکات تندرستی"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 4,
+     "col": 6,
+     "length": 4,
+     "answer": "دریا",
+     "clue": "آب بیکران و شور"
+    }
+   ]
+  },
+  {
+   "id": "fa-L12-1",
+   "lang": "fa",
+   "level": 12,
+   "rows": 9,
+   "cols": 10,
+   "seed": 1264678,
+   "grid": [
+    [
+     null,
+     "ب",
+     "ش",
+     "ق",
+     "ا",
+     "ب",
+     null,
+     "ش",
+     null,
+     null
+    ],
+    [
+     "م",
+     null,
+     null,
+     "ص",
+     null,
+     null,
+     null,
+     "ی",
+     null,
+     null
+    ],
+    [
+     "ا",
+     null,
+     "ز",
+     "ر",
+     "د",
+     null,
+     "خ",
+     "ر",
+     "م",
+     "ا"
+    ],
+    [
+     "س",
+     null,
+     "ن",
+     null,
+     "س",
+     null,
+     "و",
+     null,
+     "ر",
+     null
+    ],
+    [
+     "ت",
+     "ا",
+     "ب",
+     "س",
+     "ت",
+     "ا",
+     "ن",
+     null,
+     "غ",
+     null
+    ],
+    [
+     null,
+     null,
+     "و",
+     null,
+     null,
+     "س",
+     null,
+     "پ",
+     null,
+     null
+    ],
+    [
+     null,
+     "س",
+     "ر",
+     "و",
+     null,
+     "ب",
+     "ا",
+     "ز",
+     "ی",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ش",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ک",
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 1,
+     "length": 5,
+     "answer": "بشقاب",
+     "clue": "ظرف گرد غذا"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 3,
+     "answer": "زرد",
+     "clue": "رنگ آفتابگردان"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 2,
+     "col": 6,
+     "length": 4,
+     "answer": "خرما",
+     "clue": "میوهٔ شیرین نخل"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 7,
+     "answer": "تابستان",
+     "clue": "گرم‌ترین فصل سال"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 6,
+     "col": 1,
+     "length": 3,
+     "answer": "سرو",
+     "clue": "درخت همیشه‌سبز و بلندبالا"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 6,
+     "col": 5,
+     "length": 4,
+     "answer": "بازی",
+     "clue": "سرگرمی کودکان"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 3,
+     "answer": "قصر",
+     "clue": "خانهٔ شاهان"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 7,
+     "length": 3,
+     "answer": "شیر",
+     "clue": "پادشاه جنگل و صاحب یال پرپشت"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 0,
+     "length": 4,
+     "answer": "ماست",
+     "clue": "فراوردهٔ سفید از شیر لخته‌شده"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 2,
+     "length": 5,
+     "answer": "زنبور",
+     "clue": "حشره‌ای که کندو می‌سازد و نیش می‌زند"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 3,
+     "answer": "دست",
+     "clue": "عضو گرفتن و نوشتن"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 6,
+     "length": 3,
+     "answer": "خون",
+     "clue": "مایع سرخ رگ‌ها"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 2,
+     "col": 8,
+     "length": 3,
+     "answer": "مرغ",
+     "clue": "تخم‌گذار حیاط"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 4,
+     "col": 5,
+     "length": 3,
+     "answer": "اسب",
+     "clue": "سواری تیزپا که شیهه می‌کشد"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 5,
+     "col": 7,
+     "length": 4,
+     "answer": "پزشک",
+     "clue": "درمان‌گر بیماران"
+    }
+   ]
+  },
+  {
+   "id": "fa-L13-1",
+   "lang": "fa",
+   "level": 13,
+   "rows": 9,
+   "cols": 12,
+   "seed": 1369407,
+   "grid": [
+    [
+     null,
+     null,
+     "ا",
+     "ص",
+     "ف",
+     "ه",
+     "ا",
+     "ن",
+     null,
+     "خ",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "د",
+     null,
+     "و",
+     null,
+     "ج",
+     "د",
+     "و",
+     "ل",
+     null
+    ],
+    [
+     null,
+     "ه",
+     "و",
+     "ا",
+     "پ",
+     "ی",
+     "م",
+     "ا",
+     null,
+     "ا",
+     null,
+     null
+    ],
+    [
+     null,
+     "ل",
+     null,
+     null,
+     null,
+     "ج",
+     null,
+     "ر",
+     "و",
+     "ب",
+     "ا",
+     "ه"
+    ],
+    [
+     "س",
+     "و",
+     "س",
+     "ن",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ن",
+     null
+    ],
+    [
+     "ف",
+     null,
+     "ا",
+     null,
+     "گ",
+     null,
+     null,
+     null,
+     "ش",
+     null,
+     "ج",
+     null
+    ],
+    [
+     "ر",
+     "ا",
+     "ی",
+     "ا",
+     "ن",
+     "ه",
+     null,
+     null,
+     "ه",
+     null,
+     "ی",
+     null
+    ],
+    [
+     null,
+     null,
+     "ه",
+     null,
+     "د",
+     null,
+     null,
+     "خ",
+     "ا",
+     "ط",
+     "ر",
+     "ه"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "م",
+     null,
+     null,
+     null,
+     "ب",
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 2,
+     "length": 6,
+     "answer": "اصفهان",
+     "clue": "نصف جهان"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 1,
+     "col": 7,
+     "length": 4,
+     "answer": "جدول",
+     "clue": "شبکهٔ خانه‌های کلمات متقاطع"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 2,
+     "col": 1,
+     "length": 7,
+     "answer": "هواپیما",
+     "clue": "مرغ آهنین آسمان"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 3,
+     "col": 7,
+     "length": 5,
+     "answer": "روباه",
+     "clue": "جانور حیله‌گر با دم پرپشت"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 4,
+     "answer": "سوسن",
+     "clue": "گل سفید و بلند"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 6,
+     "col": 0,
+     "length": 6,
+     "answer": "رایانه",
+     "clue": "ماشین محاسبه‌گر"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 7,
+     "col": 7,
+     "length": 5,
+     "answer": "خاطره",
+     "clue": "یادگار گذشته"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 3,
+     "answer": "صدا",
+     "clue": "آنچه گوش می‌شنود"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 4,
+     "answer": "هویج",
+     "clue": "ریشهٔ نارنجیِ دوستِ خرگوش"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 0,
+     "col": 7,
+     "length": 4,
+     "answer": "نجار",
+     "clue": "کارگر چوب"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 0,
+     "col": 9,
+     "length": 4,
+     "answer": "خواب",
+     "clue": "استراحت شبانهٔ بدن"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 1,
+     "length": 3,
+     "answer": "هلو",
+     "clue": "میوهٔ تابستانی پرزدار"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 3,
+     "col": 10,
+     "length": 5,
+     "answer": "انجیر",
+     "clue": "میوهٔ نرم و پرتخمه"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 4,
+     "col": 0,
+     "length": 3,
+     "answer": "سفر",
+     "clue": "رفتن از شهری به شهر دیگر"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 4,
+     "col": 2,
+     "length": 4,
+     "answer": "سایه",
+     "clue": "تصویر تیرهٔ جسم زیر نور"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 5,
+     "col": 4,
+     "length": 4,
+     "answer": "گندم",
+     "clue": "دانهٔ اصلی ساختن نان"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 5,
+     "col": 8,
+     "length": 4,
+     "answer": "شهاب",
+     "clue": "سنگ آسمانی که می‌سوزد"
+    }
+   ]
+  },
+  {
+   "id": "fa-L14-1",
+   "lang": "fa",
+   "level": 14,
+   "rows": 12,
+   "cols": 9,
+   "seed": 1474136,
+   "grid": [
+    [
+     "ل",
+     null,
+     null,
+     null,
+     "ر",
+     null,
+     "ب",
+     "ر",
+     "ق"
+    ],
+    [
+     "ا",
+     "س",
+     "ت",
+     "خ",
+     "و",
+     "ا",
+     "ن",
+     null,
+     null
+    ],
+    [
+     "ل",
+     null,
+     null,
+     null,
+     "س",
+     null,
+     "ف",
+     null,
+     null
+    ],
+    [
+     "ه",
+     null,
+     null,
+     null,
+     "ت",
+     null,
+     "ش",
+     null,
+     null
+    ],
+    [
+     null,
+     "م",
+     null,
+     "م",
+     "ا",
+     "ه",
+     null,
+     null,
+     null
+    ],
+    [
+     "گ",
+     "و",
+     "ش",
+     "ی",
+     null,
+     null,
+     null,
+     "ک",
+     null
+    ],
+    [
+     null,
+     "ش",
+     null,
+     "ز",
+     "م",
+     "س",
+     "ت",
+     "ا",
+     "ن"
+    ],
+    [
+     null,
+     null,
+     "ب",
+     null,
+     null,
+     "ا",
+     null,
+     "ج",
+     null
+    ],
+    [
+     "ع",
+     "ق",
+     "ا",
+     "ب",
+     null,
+     "ح",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ل",
+     null,
+     "ب",
+     "ل",
+     "و",
+     "ط",
+     null
+    ],
+    [
+     null,
+     "چ",
+     "ن",
+     "ا",
+     "ر",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "گ",
+     "و",
+     "ج",
+     "ه",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 0,
+     "col": 6,
+     "length": 3,
+     "answer": "برق",
+     "clue": "روشنایی ناگهانیِ پیش از رعد"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 7,
+     "answer": "استخوان",
+     "clue": "ستون و داربست تن"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 3,
+     "length": 3,
+     "answer": "ماه",
+     "clue": "همدم شب‌های زمین"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 4,
+     "answer": "گوشی",
+     "clue": "همراه همیشگی جیب"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 6,
+     "col": 3,
+     "length": 6,
+     "answer": "زمستان",
+     "clue": "فصل سرما و برف"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 8,
+     "col": 0,
+     "length": 4,
+     "answer": "عقاب",
+     "clue": "پرندهٔ شکاری با بال‌های پهن"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 9,
+     "col": 4,
+     "length": 4,
+     "answer": "بلوط",
+     "clue": "درختی که میوه‌اش کلاهک دارد"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 10,
+     "col": 1,
+     "length": 4,
+     "answer": "چنار",
+     "clue": "درخت تنومند و کهنسال"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 11,
+     "col": 4,
+     "length": 4,
+     "answer": "گوجه",
+     "clue": "سبزی سرخ و آبدار سالاد"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 0,
+     "length": 4,
+     "answer": "لاله",
+     "clue": "گل جام‌مانند بهاری"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 5,
+     "answer": "روستا",
+     "clue": "دهکده"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 4,
+     "answer": "بنفش",
+     "clue": "رنگ میان آبی و سرخ"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "موش",
+     "clue": "جانور کوچکی که پنیر دوست دارد"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 4,
+     "col": 3,
+     "length": 3,
+     "answer": "میز",
+     "clue": "جای گذاشتن غذا و کتاب"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 5,
+     "col": 7,
+     "length": 3,
+     "answer": "کاج",
+     "clue": "درخت سوزنی‌برگ"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 6,
+     "col": 5,
+     "length": 4,
+     "answer": "ساحل",
+     "clue": "کنارهٔ دریا"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 7,
+     "col": 2,
+     "length": 4,
+     "answer": "بالن",
+     "clue": "کشتی هوایی گرم"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 9,
+     "col": 4,
+     "length": 3,
+     "answer": "برگ",
+     "clue": "سبزینهٔ شاخه که پاییز زرد می‌شود"
+    }
+   ]
+  },
+  {
+   "id": "fa-L15-1",
+   "lang": "fa",
+   "level": 15,
+   "rows": 13,
+   "cols": 10,
+   "seed": 1578865,
+   "grid": [
+    [
+     null,
+     "ش",
+     "ع",
+     "ر",
+     null,
+     null,
+     "ز",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ر",
+     null,
+     "ن",
+     "ق",
+     "ا",
+     "ب",
+     null,
+     null
+    ],
+    [
+     "ک",
+     "ش",
+     "و",
+     "ر",
+     null,
+     null,
+     "ن",
+     null,
+     null,
+     "خ"
+    ],
+    [
+     "ت",
+     null,
+     "س",
+     null,
+     null,
+     "د",
+     "و",
+     "س",
+     "ت",
+     "ی"
+    ],
+    [
+     "ا",
+     null,
+     "ک",
+     "ش",
+     "ت",
+     "ی",
+     null,
+     "ف",
+     null,
+     "ا"
+    ],
+    [
+     "ب",
+     null,
+     null,
+     "ک",
+     null,
+     "و",
+     null,
+     "ر",
+     null,
+     "ط"
+    ],
+    [
+     "خ",
+     null,
+     "ب",
+     "ر",
+     "ن",
+     "ا",
+     "م",
+     "ه",
+     null,
+     null
+    ],
+    [
+     "ا",
+     null,
+     "ا",
+     null,
+     null,
+     "ر",
+     null,
+     null,
+     "آ",
+     null
+    ],
+    [
+     "ن",
+     null,
+     "ر",
+     "ی",
+     "ه",
+     null,
+     "آ",
+     "ب",
+     "ی",
+     null
+    ],
+    [
+     "ه",
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ن",
+     null
+    ],
+    [
+     null,
+     null,
+     "ن",
+     "و",
+     "ی",
+     "س",
+     "ن",
+     "د",
+     "ه",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ق",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ز",
+     "ر",
+     "ا",
+     "ف",
+     "ه",
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 1,
+     "length": 3,
+     "answer": "شعر",
+     "clue": "سخن موزون"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 1,
+     "col": 4,
+     "length": 4,
+     "answer": "نقاب",
+     "clue": "پوشش چهره"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 4,
+     "answer": "کشور",
+     "clue": "سرزمین با مرز و پرچم"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 3,
+     "col": 5,
+     "length": 5,
+     "answer": "دوستی",
+     "clue": "پیوند مهربان میان دو نفر"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 4,
+     "col": 2,
+     "length": 4,
+     "answer": "کشتی",
+     "clue": "شناور بزرگ روی دریا"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 6,
+     "col": 2,
+     "length": 6,
+     "answer": "برنامه",
+     "clue": "فرمان‌های رایانه"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 8,
+     "col": 2,
+     "length": 3,
+     "answer": "ریه",
+     "clue": "عضو تنفس"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 8,
+     "col": 6,
+     "length": 3,
+     "answer": "آبی",
+     "clue": "رنگ آسمان صاف"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 10,
+     "col": 2,
+     "length": 7,
+     "answer": "نویسنده",
+     "clue": "پدیدآورندهٔ کتاب"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 12,
+     "col": 2,
+     "length": 5,
+     "answer": "زرافه",
+     "clue": "جانور گردن‌دراز آفریقایی"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 5,
+     "answer": "عروسک",
+     "clue": "دوست کودکی"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 4,
+     "answer": "زانو",
+     "clue": "مفصل میان ران و ساق"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 0,
+     "length": 8,
+     "answer": "کتابخانه",
+     "clue": "خانهٔ کتاب‌ها"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 9,
+     "length": 4,
+     "answer": "خیاط",
+     "clue": "دوزندهٔ لباس"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 5,
+     "length": 5,
+     "answer": "دیوار",
+     "clue": "مانع میان دو اتاق"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 3,
+     "col": 7,
+     "length": 4,
+     "answer": "سفره",
+     "clue": "جای چیدن غذا"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 4,
+     "col": 3,
+     "length": 3,
+     "answer": "شکر",
+     "clue": "دانه‌های سفید و شیرین"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 6,
+     "col": 2,
+     "length": 5,
+     "answer": "باران",
+     "clue": "قطره‌های آسمانی"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 7,
+     "col": 8,
+     "length": 4,
+     "answer": "آینه",
+     "clue": "تصویر ما را نشان می‌دهد"
+    },
+    {
+     "number": 16,
+     "direction": "down",
+     "row": 10,
+     "col": 5,
+     "length": 3,
+     "answer": "سقف",
+     "clue": "بالاسر ما در خانه"
+    }
+   ]
+  },
+  {
+   "id": "fa-L16-1",
+   "lang": "fa",
+   "level": 16,
+   "rows": 11,
+   "cols": 13,
+   "seed": 1683594,
+   "grid": [
+    [
+     null,
+     "ک",
+     "ی",
+     "ک",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ی",
+     null,
+     "آ",
+     "ش",
+     "پ",
+     "ز",
+     null,
+     "پ",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ق",
+     "ف",
+     "ل",
+     null,
+     null,
+     "ن",
+     null,
+     null,
+     "س",
+     "و",
+     "پ"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ب",
+     "ی",
+     "ن",
+     "ی",
+     null,
+     null,
+     "ت",
+     null,
+     "ی"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ا",
+     null,
+     null,
+     "ر",
+     "ی",
+     "ش",
+     "ه",
+     null,
+     "ا"
+    ],
+    [
+     null,
+     null,
+     "خ",
+     "ر",
+     "س",
+     null,
+     "ک",
+     null,
+     null,
+     "ت",
+     null,
+     null,
+     "ز"
+    ],
+    [
+     null,
+     null,
+     "ل",
+     null,
+     null,
+     "ش",
+     "ل",
+     "و",
+     "ا",
+     "ر",
+     null,
+     null,
+     null
+    ],
+    [
+     "ا",
+     "س",
+     "ب",
+     null,
+     null,
+     null,
+     "ی",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ا",
+     null,
+     "ب",
+     "ا",
+     "د",
+     "ب",
+     "ا",
+     "د",
+     "ک",
+     null,
+     null
+    ],
+    [
+     "پ",
+     "ل",
+     "ن",
+     "گ",
+     null,
+     null,
+     null,
+     "ا",
+     null,
+     null,
+     "ر",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ش",
+     "ا",
+     "د",
+     "ی",
+     null,
+     "ه",
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 1,
+     "length": 3,
+     "answer": "کیک",
+     "clue": "شیرینی خامه‌ای تولد"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 1,
+     "col": 5,
+     "length": 4,
+     "answer": "آشپز",
+     "clue": "پخت‌کنندهٔ غذا"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 3,
+     "answer": "قفل",
+     "clue": "نگهبان در"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 2,
+     "col": 10,
+     "length": 3,
+     "answer": "سوپ",
+     "clue": "غذای گرم و آبکی"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 3,
+     "col": 4,
+     "length": 4,
+     "answer": "بینی",
+     "clue": "عضو بویایی"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 4,
+     "col": 7,
+     "length": 4,
+     "answer": "ریشه",
+     "clue": "بخش زیرزمینی گیاه"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 5,
+     "col": 2,
+     "length": 3,
+     "answer": "خرس",
+     "clue": "جانور پشمالویی که زمستان می‌خوابد"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 6,
+     "col": 5,
+     "length": 5,
+     "answer": "شلوار",
+     "clue": "جامهٔ دو پا"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 7,
+     "col": 0,
+     "length": 3,
+     "answer": "اسب",
+     "clue": "سواری تیزپا که شیهه می‌کشد"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 8,
+     "col": 4,
+     "length": 7,
+     "answer": "بادبادک",
+     "clue": "پرندهٔ کاغذی بر نخ"
+    },
+    {
+     "number": 20,
+     "direction": "across",
+     "row": 9,
+     "col": 0,
+     "length": 4,
+     "answer": "پلنگ",
+     "clue": "گربه‌سان خال‌دار"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 10,
+     "col": 5,
+     "length": 4,
+     "answer": "شادی",
+     "clue": "نقطهٔ مقابل غم"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 3,
+     "answer": "کیف",
+     "clue": "جای گذاشتن وسایل همراه"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 7,
+     "length": 4,
+     "answer": "پنیر",
+     "clue": "فراوردهٔ شیر در صبحانه"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 1,
+     "col": 10,
+     "length": 4,
+     "answer": "پسته",
+     "clue": "مغز سبز در پوستِ خندان"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 4,
+     "answer": "لباس",
+     "clue": "پوشش تن"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 2,
+     "col": 12,
+     "length": 4,
+     "answer": "پیاز",
+     "clue": "سبزی اشک‌آور"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 4,
+     "col": 9,
+     "length": 3,
+     "answer": "شتر",
+     "clue": "کشتی بیابان"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 5,
+     "col": 2,
+     "length": 5,
+     "answer": "خلبان",
+     "clue": "هدایت‌گر هواپیما"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 5,
+     "col": 6,
+     "length": 4,
+     "answer": "کلید",
+     "clue": "رفیق قفل"
+    },
+    {
+     "number": 18,
+     "direction": "down",
+     "row": 8,
+     "col": 7,
+     "length": 3,
+     "answer": "باد",
+     "clue": "نیروی نامرئی که برگ‌ها را می‌رقصاند"
+    },
+    {
+     "number": 19,
+     "direction": "down",
+     "row": 8,
+     "col": 10,
+     "length": 3,
+     "answer": "کره",
+     "clue": "چربی شیر برای صبحانه"
+    }
+   ]
+  },
+  {
+   "id": "fa-L17-1",
+   "lang": "fa",
+   "level": 17,
+   "rows": 13,
+   "cols": 13,
+   "seed": 1788323,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     "ن",
+     null,
+     "ی",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "م",
+     "ع",
+     "م",
+     "ا",
+     null,
+     "ل",
+     null,
+     null,
+     "ط",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "ی",
+     null,
+     null,
+     "خ",
+     null,
+     "د",
+     null,
+     "ق",
+     "و",
+     "ر",
+     "ی",
+     null,
+     null
+    ],
+    [
+     "م",
+     null,
+     null,
+     "ن",
+     "ق",
+     "ا",
+     "ب",
+     null,
+     "ط",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "و",
+     null,
+     null,
+     null,
+     "ط",
+     null,
+     null,
+     "ف",
+     "ی",
+     "ل",
+     "م",
+     null,
+     null
+    ],
+    [
+     "ن",
+     null,
+     null,
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "غ",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "س",
+     "ر",
+     "ع",
+     "ت",
+     null,
+     "س",
+     "ب",
+     "ز",
+     "ی",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "س",
+     null,
+     null,
+     "ب",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ت",
+     "ل",
+     "و",
+     "ی",
+     "ز",
+     "ی",
+     "و",
+     "ن",
+     null
+    ],
+    [
+     null,
+     null,
+     "س",
+     null,
+     "ن",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "م",
+     null
+    ],
+    [
+     null,
+     "ت",
+     "ر",
+     "ش",
+     "ی",
+     null,
+     "ک",
+     null,
+     "ر",
+     "و",
+     "د",
+     "ک",
+     "ی"
+    ],
+    [
+     null,
+     null,
+     "و",
+     null,
+     "س",
+     "ل",
+     "و",
+     "ل",
+     null,
+     null,
+     "س",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ه",
+     null,
+     null,
+     "پ",
+     "ت",
+     "و",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 4,
+     "answer": "معما",
+     "clue": "پرسش پیچیده که باید حل شود"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 7,
+     "length": 4,
+     "answer": "قوری",
+     "clue": "ظرف دم‌کردن چای"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 3,
+     "col": 3,
+     "length": 4,
+     "answer": "نقاب",
+     "clue": "پوشش چهره"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 7,
+     "length": 4,
+     "answer": "فیلم",
+     "clue": "نمایش روی پردهٔ سینما"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 6,
+     "col": 3,
+     "length": 4,
+     "answer": "سرعت",
+     "clue": "مسافت در واحد زمان"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 6,
+     "col": 8,
+     "length": 4,
+     "answer": "سبزی",
+     "clue": "برگ خوراکی همراه نان و پنیر"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 8,
+     "col": 4,
+     "length": 8,
+     "answer": "تلویزیون",
+     "clue": "جعبهٔ تصویر خانه"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 10,
+     "col": 1,
+     "length": 4,
+     "answer": "ترشی",
+     "clue": "خوراکی ترش در شیشه"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 10,
+     "col": 8,
+     "length": 5,
+     "answer": "رودکی",
+     "clue": "پدر شعر فارسی"
+    },
+    {
+     "number": 20,
+     "direction": "across",
+     "row": 11,
+     "col": 4,
+     "length": 4,
+     "answer": "سلول",
+     "clue": "واحد سازندهٔ حیات"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 12,
+     "col": 9,
+     "length": 3,
+     "answer": "پتو",
+     "clue": "پوشش گرم شب"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 4,
+     "answer": "ناخن",
+     "clue": "پوشش نوک انگشت"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 4,
+     "answer": "یلدا",
+     "clue": "بلندترین شب سال"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 0,
+     "length": 5,
+     "answer": "میمون",
+     "clue": "جانور بازیگوش که موز دوست دارد"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 8,
+     "length": 4,
+     "answer": "طوطی",
+     "clue": "پرندهٔ سخنگو"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 4,
+     "length": 4,
+     "answer": "قطار",
+     "clue": "واگن‌های پشت سر هم روی ریل"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 4,
+     "col": 10,
+     "length": 3,
+     "answer": "مغز",
+     "clue": "فرماندهٔ بدن"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 6,
+     "col": 5,
+     "length": 3,
+     "answer": "عسل",
+     "clue": "شهد شیرین زنبور"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 6,
+     "col": 8,
+     "length": 3,
+     "answer": "سبز",
+     "clue": "رنگ برگ و چمن"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 8,
+     "col": 4,
+     "length": 4,
+     "answer": "تنیس",
+     "clue": "بازی با راکت و توپ زرد"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 8,
+     "col": 11,
+     "length": 3,
+     "answer": "نمک",
+     "clue": "طعم‌دهندهٔ سفید و شور"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 9,
+     "col": 2,
+     "length": 3,
+     "answer": "سرو",
+     "clue": "درخت همیشه‌سبز و بلندبالا"
+    },
+    {
+     "number": 17,
+     "direction": "down",
+     "row": 10,
+     "col": 6,
+     "length": 3,
+     "answer": "کوه",
+     "clue": "برآمدگی بلند و سنگی زمین"
+    },
+    {
+     "number": 19,
+     "direction": "down",
+     "row": 10,
+     "col": 10,
+     "length": 3,
+     "answer": "دست",
+     "clue": "عضو گرفتن و نوشتن"
+    }
+   ]
+  },
+  {
+   "id": "fa-L18-1",
+   "lang": "fa",
+   "level": 18,
+   "rows": 14,
+   "cols": 12,
+   "seed": 1893052,
+   "grid": [
+    [
+     null,
+     "ا",
+     "ن",
+     "گ",
+     "ش",
+     "ت",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ن",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "م",
+     "س",
+     "ا",
+     "ف",
+     "ر",
+     null,
+     "س",
+     "ا",
+     "ع",
+     "ت"
+    ],
+    [
+     null,
+     "ب",
+     null,
+     null,
+     null,
+     "ی",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "پ"
+    ],
+    [
+     null,
+     "ی",
+     "خ",
+     "چ",
+     "ا",
+     "ل",
+     null,
+     "خ",
+     "ر",
+     "ب",
+     "ز",
+     "ه"
+    ],
+    [
+     null,
+     "ن",
+     null,
+     "ی",
+     null,
+     null,
+     "گ",
+     null,
+     null,
+     null,
+     "ر",
+     null
+    ],
+    [
+     null,
+     "ی",
+     "ا",
+     "س",
+     null,
+     null,
+     "ر",
+     "ا",
+     "ن",
+     "ن",
+     "د",
+     "ه"
+    ],
+    [
+     null,
+     null,
+     null,
+     "ت",
+     "گ",
+     "ر",
+     "گ",
+     null,
+     "ا",
+     null,
+     "آ",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     "ج",
+     "ن",
+     "گ",
+     "ل",
+     null
+    ],
+    [
+     "ر",
+     null,
+     "ت",
+     "ن",
+     "ب",
+     "ک",
+     null,
+     null,
+     null,
+     null,
+     "و",
+     null
+    ],
+    [
+     "ی",
+     null,
+     "ب",
+     null,
+     null,
+     "ا",
+     "ه",
+     "و",
+     "ا",
+     "ز",
+     null,
+     null
+    ],
+    [
+     "ه",
+     "ن",
+     "ر",
+     null,
+     null,
+     "ج",
+     null,
+     null,
+     "م",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "ی",
+     null,
+     null,
+     null,
+     "س",
+     "ف",
+     "ی",
+     "د",
+     null,
+     null
+    ],
+    [
+     null,
+     "ج",
+     "ز",
+     "ی",
+     "ر",
+     "ه",
+     null,
+     null,
+     "د",
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 1,
+     "length": 5,
+     "answer": "انگشت",
+     "clue": "پنج تا در هر دست"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 5,
+     "answer": "مسافر",
+     "clue": "سفرکننده"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 8,
+     "length": 4,
+     "answer": "ساعت",
+     "clue": "وقت را نشان می‌دهد"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 5,
+     "answer": "یخچال",
+     "clue": "نگهدارندهٔ سرد خوراکی"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 4,
+     "col": 7,
+     "length": 5,
+     "answer": "خربزه",
+     "clue": "میوهٔ شیرین و درشت تابستان"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 6,
+     "col": 1,
+     "length": 3,
+     "answer": "یاس",
+     "clue": "گل سفید و خوش‌بو"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 6,
+     "col": 6,
+     "length": 6,
+     "answer": "راننده",
+     "clue": "هدایت‌گر خودرو"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 7,
+     "col": 3,
+     "length": 4,
+     "answer": "تگرگ",
+     "clue": "دانه‌های سخت یخی که از آسمان می‌بارد"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 8,
+     "col": 7,
+     "length": 4,
+     "answer": "جنگل",
+     "clue": "خانهٔ درختان انبوه"
+    },
+    {
+     "number": 19,
+     "direction": "across",
+     "row": 9,
+     "col": 2,
+     "length": 4,
+     "answer": "تنبک",
+     "clue": "ساز ضربی با کاسهٔ چوبی"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 10,
+     "col": 5,
+     "length": 5,
+     "answer": "اهواز",
+     "clue": "شهر کارون"
+    },
+    {
+     "number": 23,
+     "direction": "across",
+     "row": 11,
+     "col": 0,
+     "length": 3,
+     "answer": "هنر",
+     "clue": "نقاشی و موسیقی و شعر"
+    },
+    {
+     "number": 24,
+     "direction": "across",
+     "row": 12,
+     "col": 6,
+     "length": 4,
+     "answer": "سفید",
+     "clue": "رنگ برف"
+    },
+    {
+     "number": 25,
+     "direction": "across",
+     "row": 13,
+     "col": 1,
+     "length": 5,
+     "answer": "جزیره",
+     "clue": "خشکی در محاصرهٔ آب"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 3,
+     "answer": "شنا",
+     "clue": "حرکت در آب"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 2,
+     "col": 5,
+     "length": 3,
+     "answer": "فیل",
+     "clue": "جانور خرطوم‌دار و غول‌پیکر"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 11,
+     "length": 3,
+     "answer": "تپه",
+     "clue": "کوهِ کوچک"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 1,
+     "length": 4,
+     "answer": "بینی",
+     "clue": "عضو بویایی"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 4,
+     "col": 3,
+     "length": 6,
+     "answer": "چیستان",
+     "clue": "پرسشی سربسته که باید حل شود"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 4,
+     "col": 10,
+     "length": 6,
+     "answer": "زردآلو",
+     "clue": "میوهٔ نارنجیِ هستهٔ بادامی"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 5,
+     "col": 6,
+     "length": 3,
+     "answer": "گرگ",
+     "clue": "جانور وحشی که شب‌ها زوزه می‌کشد"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 6,
+     "col": 8,
+     "length": 3,
+     "answer": "نان",
+     "clue": "روزی هر روزِ سفره"
+    },
+    {
+     "number": 18,
+     "direction": "down",
+     "row": 9,
+     "col": 0,
+     "length": 3,
+     "answer": "ریه",
+     "clue": "عضو تنفس"
+    },
+    {
+     "number": 19,
+     "direction": "down",
+     "row": 9,
+     "col": 2,
+     "length": 5,
+     "answer": "تبریز",
+     "clue": "شهر بازار تاریخی در آذربایجان"
+    },
+    {
+     "number": 20,
+     "direction": "down",
+     "row": 9,
+     "col": 5,
+     "length": 3,
+     "answer": "کاج",
+     "clue": "درخت سوزنی‌برگ"
+    },
+    {
+     "number": 22,
+     "direction": "down",
+     "row": 10,
+     "col": 8,
+     "length": 4,
+     "answer": "امید",
+     "clue": "روشنی در دل تاریکی"
+    }
+   ]
+  },
+  {
+   "id": "fa-L19-1",
+   "lang": "fa",
+   "level": 19,
+   "rows": 13,
+   "cols": 13,
+   "seed": 1997781,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ک",
+     "ت",
+     "ا",
+     "ب",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "د",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "ط",
+     null,
+     null,
+     "م",
+     null,
+     "ی",
+     "و",
+     "ز",
+     "پ",
+     "ل",
+     "ن",
+     "گ"
+    ],
+    [
+     null,
+     "ا",
+     null,
+     "م",
+     "و",
+     "ج",
+     null,
+     null,
+     null,
+     "ر",
+     null,
+     null,
+     null
+    ],
+    [
+     "م",
+     "و",
+     "ش",
+     null,
+     "ر",
+     null,
+     "م",
+     "ا",
+     "ه",
+     "و",
+     "ا",
+     "ر",
+     "ه"
+    ],
+    [
+     null,
+     "و",
+     null,
+     null,
+     "چ",
+     "ا",
+     "ی",
+     null,
+     null,
+     "ا",
+     null,
+     "ع",
+     null
+    ],
+    [
+     null,
+     "س",
+     "ی",
+     "ا",
+     "ه",
+     null,
+     "و",
+     null,
+     "آ",
+     "ز",
+     "ا",
+     "د",
+     "ی"
+    ],
+    [
+     "ت",
+     null,
+     "ز",
+     null,
+     null,
+     "ش",
+     "ه",
+     "ر",
+     null,
+     null,
+     null,
+     null,
+     "ل"
+    ],
+    [
+     "خ",
+     "ر",
+     "د",
+     null,
+     null,
+     "ا",
+     null,
+     "ش",
+     null,
+     null,
+     "ب",
+     "ی",
+     "د"
+    ],
+    [
+     "ت",
+     null,
+     null,
+     null,
+     null,
+     "خ",
+     null,
+     "ت",
+     "ا",
+     "ج",
+     null,
+     null,
+     "ا"
+    ],
+    [
+     null,
+     "ب",
+     "ن",
+     "ف",
+     "ش",
+     "ه",
+     null,
+     null,
+     null,
+     "غ",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "و",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "د",
+     "ا",
+     "ن",
+     "ش"
+    ],
+    [
+     null,
+     "ب",
+     "ر",
+     "ق",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 7,
+     "length": 4,
+     "answer": "کتاب",
+     "clue": "دوست بی‌صدا"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 2,
+     "col": 6,
+     "length": 7,
+     "answer": "یوزپلنگ",
+     "clue": "سریع‌ترین جانور روی زمین"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 3,
+     "col": 3,
+     "length": 3,
+     "answer": "موج",
+     "clue": "پیچ‌وتاب آب دریا"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 3,
+     "answer": "موش",
+     "clue": "جانور کوچکی که پنیر دوست دارد"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 6,
+     "length": 7,
+     "answer": "ماهواره",
+     "clue": "جسمی ساخته‌شده که دور زمین می‌چرخد"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 5,
+     "col": 4,
+     "length": 3,
+     "answer": "چای",
+     "clue": "نوشیدنی گرم و دم‌کردهٔ لاهیجان"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 6,
+     "col": 1,
+     "length": 4,
+     "answer": "سیاه",
+     "clue": "رنگ شب"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 6,
+     "col": 8,
+     "length": 5,
+     "answer": "آزادی",
+     "clue": "نقطهٔ مقابل بندگی"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 7,
+     "col": 5,
+     "length": 3,
+     "answer": "شهر",
+     "clue": "محل زندگی گروه بزرگ مردم"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 8,
+     "col": 0,
+     "length": 3,
+     "answer": "خرد",
+     "clue": "عقل و دانایی"
+    },
+    {
+     "number": 19,
+     "direction": "across",
+     "row": 8,
+     "col": 10,
+     "length": 3,
+     "answer": "بید",
+     "clue": "درخت شاخه‌های آویزان"
+    },
+    {
+     "number": 20,
+     "direction": "across",
+     "row": 9,
+     "col": 7,
+     "length": 3,
+     "answer": "تاج",
+     "clue": "جامهٔ سر شاه"
+    },
+    {
+     "number": 22,
+     "direction": "across",
+     "row": 10,
+     "col": 1,
+     "length": 5,
+     "answer": "بنفشه",
+     "clue": "گل کوچک و بنفش بهاری"
+    },
+    {
+     "number": 24,
+     "direction": "across",
+     "row": 11,
+     "col": 9,
+     "length": 4,
+     "answer": "دانش",
+     "clue": "آگاهی و فرزانگی"
+    },
+    {
+     "number": 25,
+     "direction": "across",
+     "row": 12,
+     "col": 1,
+     "length": 3,
+     "answer": "برق",
+     "clue": "روشنایی ناگهانیِ پیش از رعد"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 7,
+     "length": 3,
+     "answer": "کدو",
+     "clue": "سبزی گرد و پرآب"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 2,
+     "col": 1,
+     "length": 5,
+     "answer": "طاووس",
+     "clue": "پرندهٔ دم‌رنگین"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 5,
+     "answer": "مورچه",
+     "clue": "حشرهٔ کوچک و پرتلاش"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 9,
+     "length": 5,
+     "answer": "پرواز",
+     "clue": "سیر در آسمان"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 6,
+     "length": 4,
+     "answer": "میوه",
+     "clue": "ثمرهٔ درخت"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 4,
+     "col": 11,
+     "length": 3,
+     "answer": "رعد",
+     "clue": "غرش آسمان"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 6,
+     "col": 2,
+     "length": 3,
+     "answer": "یزد",
+     "clue": "شهر بادگیرها"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 6,
+     "col": 12,
+     "length": 4,
+     "answer": "یلدا",
+     "clue": "بلندترین شب سال"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 7,
+     "col": 0,
+     "length": 3,
+     "answer": "تخت",
+     "clue": "جای خواب"
+    },
+    {
+     "number": 16,
+     "direction": "down",
+     "row": 7,
+     "col": 5,
+     "length": 4,
+     "answer": "شاخه",
+     "clue": "بازوی درخت"
+    },
+    {
+     "number": 17,
+     "direction": "down",
+     "row": 7,
+     "col": 7,
+     "length": 3,
+     "answer": "رشت",
+     "clue": "مرکز گیلان"
+    },
+    {
+     "number": 21,
+     "direction": "down",
+     "row": 9,
+     "col": 9,
+     "length": 3,
+     "answer": "جغد",
+     "clue": "پرندهٔ شب‌بیدار"
+    },
+    {
+     "number": 23,
+     "direction": "down",
+     "row": 10,
+     "col": 2,
+     "length": 3,
+     "answer": "نور",
+     "clue": "دشمن تاریکی"
+    }
+   ]
+  },
+  {
+   "id": "fa-L20-1",
+   "lang": "fa",
+   "level": 20,
+   "rows": 15,
+   "cols": 15,
+   "seed": 2102510,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ش",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "گ",
+     "ل",
+     "س",
+     "ت",
+     "ا",
+     "ن",
+     null,
+     "پ",
+     "ل",
+     "ی",
+     "س",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ه",
+     null,
+     "ا",
+     null,
+     "ی",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "س",
+     "ی",
+     "ا",
+     "ر",
+     "ه",
+     null,
+     null,
+     "ا",
+     null,
+     "ک",
+     null,
+     "ب",
+     null,
+     null
+    ],
+    [
+     null,
+     "ی",
+     null,
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     "ز",
+     "ع",
+     "ف",
+     "ر",
+     "ا",
+     "ن",
+     null
+    ],
+    [
+     "گ",
+     "ا",
+     "و",
+     null,
+     "ن",
+     "خ",
+     "ل",
+     null,
+     null,
+     null,
+     "ش",
+     null,
+     "ل",
+     null,
+     "آ"
+    ],
+    [
+     null,
+     "ه",
+     null,
+     null,
+     null,
+     "ز",
+     null,
+     null,
+     null,
+     "س",
+     null,
+     "چ",
+     "ش",
+     "م",
+     "ه"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "گ",
+     "ر",
+     "م",
+     "ا",
+     null,
+     "ی",
+     null,
+     "ش",
+     null,
+     null,
+     "و"
+    ],
+    [
+     null,
+     null,
+     "ب",
+     null,
+     null,
+     null,
+     "ا",
+     null,
+     "ش",
+     "ب",
+     "ن",
+     "م",
+     null,
+     "ل",
+     null
+    ],
+    [
+     null,
+     "خ",
+     "ا",
+     "ک",
+     "س",
+     "ت",
+     "ر",
+     "ی",
+     null,
+     null,
+     "ه",
+     null,
+     null,
+     "ی",
+     null
+    ],
+    [
+     null,
+     null,
+     "غ",
+     null,
+     null,
+     "و",
+     null,
+     "ز",
+     "ب",
+     "ا",
+     "ن",
+     null,
+     null,
+     "م",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "د",
+     "ش",
+     "ت",
+     null,
+     "د",
+     null,
+     null,
+     "گ",
+     "ر",
+     "د",
+     "و",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ا",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ب",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ع",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ا",
+     "ن",
+     "ا",
+     "ر"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "ر",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "ت",
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 1,
+     "col": 1,
+     "length": 6,
+     "answer": "گلستان",
+     "clue": "کتاب نثر و نظم سعدی"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 1,
+     "col": 8,
+     "length": 4,
+     "answer": "پلیس",
+     "clue": "نگهبان امنیت شهر"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 3,
+     "col": 1,
+     "length": 5,
+     "answer": "سیاره",
+     "clue": "گردندهٔ دور خورشید"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 8,
+     "length": 6,
+     "answer": "زعفران",
+     "clue": "طلای سرخ"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 3,
+     "answer": "گاو",
+     "clue": "جانور شیرده مزرعه"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 5,
+     "col": 4,
+     "length": 3,
+     "answer": "نخل",
+     "clue": "درخت بلند خرما"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 6,
+     "col": 11,
+     "length": 4,
+     "answer": "چشمه",
+     "clue": "آب زلالی که از دل زمین می‌جوشد"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 7,
+     "col": 4,
+     "length": 4,
+     "answer": "گرما",
+     "clue": "نقطهٔ مقابل سرما"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 8,
+     "col": 8,
+     "length": 4,
+     "answer": "شبنم",
+     "clue": "قطره‌های سحرگاهی روی گل"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 9,
+     "col": 1,
+     "length": 7,
+     "answer": "خاکستری",
+     "clue": "رنگ میان سیاه و سفید"
+    },
+    {
+     "number": 24,
+     "direction": "across",
+     "row": 10,
+     "col": 7,
+     "length": 4,
+     "answer": "زبان",
+     "clue": "عضو چشایی و سخن"
+    },
+    {
+     "number": 25,
+     "direction": "across",
+     "row": 11,
+     "col": 3,
+     "length": 3,
+     "answer": "دشت",
+     "clue": "زمین هموار و گسترده"
+    },
+    {
+     "number": 27,
+     "direction": "across",
+     "row": 11,
+     "col": 10,
+     "length": 4,
+     "answer": "گردو",
+     "clue": "مغز چین‌دار در پوست سخت"
+    },
+    {
+     "number": 29,
+     "direction": "across",
+     "row": 13,
+     "col": 11,
+     "length": 4,
+     "answer": "انار",
+     "clue": "میوهٔ دانه‌یاقوتی"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 3,
+     "answer": "شنا",
+     "clue": "حرکت در آب"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 4,
+     "length": 5,
+     "answer": "تهران",
+     "clue": "پایتخت ایران"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 8,
+     "length": 4,
+     "answer": "پیاز",
+     "clue": "سبزی اشک‌آور"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 1,
+     "length": 4,
+     "answer": "سیاه",
+     "clue": "رنگ شب"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 3,
+     "col": 10,
+     "length": 3,
+     "answer": "کفش",
+     "clue": "پوشش پا"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 12,
+     "length": 4,
+     "answer": "بالش",
+     "clue": "تکیه‌گاه سر هنگام خواب"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 5,
+     "col": 5,
+     "length": 3,
+     "answer": "خزر",
+     "clue": "بزرگ‌ترین دریاچهٔ جهان"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 5,
+     "col": 14,
+     "length": 3,
+     "answer": "آهو",
+     "clue": "جانور چشم‌سیاه و تیزپا"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 6,
+     "col": 9,
+     "length": 3,
+     "answer": "سیب",
+     "clue": "میوه‌ای گرد با رنگ‌های سرخ و زرد"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 6,
+     "col": 11,
+     "length": 3,
+     "answer": "چشم",
+     "clue": "عضو بینایی"
+    },
+    {
+     "number": 16,
+     "direction": "down",
+     "row": 7,
+     "col": 6,
+     "length": 3,
+     "answer": "مار",
+     "clue": "خزندهٔ بی‌دست‌وپا"
+    },
+    {
+     "number": 17,
+     "direction": "down",
+     "row": 8,
+     "col": 2,
+     "length": 3,
+     "answer": "باغ",
+     "clue": "زمین پر از درخت"
+    },
+    {
+     "number": 19,
+     "direction": "down",
+     "row": 8,
+     "col": 10,
+     "length": 4,
+     "answer": "نهنگ",
+     "clue": "غول اقیانوس‌ها"
+    },
+    {
+     "number": 20,
+     "direction": "down",
+     "row": 8,
+     "col": 13,
+     "length": 4,
+     "answer": "لیمو",
+     "clue": "میوهٔ ترش و زرد"
+    },
+    {
+     "number": 22,
+     "direction": "down",
+     "row": 9,
+     "col": 5,
+     "length": 3,
+     "answer": "توت",
+     "clue": "میوهٔ ریز و رنگی درخت"
+    },
+    {
+     "number": 23,
+     "direction": "down",
+     "row": 9,
+     "col": 7,
+     "length": 3,
+     "answer": "یزد",
+     "clue": "شهر بادگیرها"
+    },
+    {
+     "number": 26,
+     "direction": "down",
+     "row": 11,
+     "col": 4,
+     "length": 4,
+     "answer": "شاعر",
+     "clue": "سرایندهٔ شعر"
+    },
+    {
+     "number": 28,
+     "direction": "down",
+     "row": 11,
+     "col": 11,
+     "length": 4,
+     "answer": "ربات",
+     "clue": "انسان‌نمای مکانیکی"
+    }
+   ]
+  }
+ ]
+}

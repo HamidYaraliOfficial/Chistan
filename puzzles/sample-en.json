@@ -1,0 +1,5697 @@
+{
+ "language": "en",
+ "count": 20,
+ "puzzles": [
+  {
+   "id": "en-L01-1",
+   "lang": "en",
+   "level": 1,
+   "rows": 5,
+   "cols": 5,
+   "seed": 112671,
+   "grid": [
+    [
+     null,
+     "H",
+     null,
+     null,
+     null
+    ],
+    [
+     "S",
+     "O",
+     "U",
+     "N",
+     "D"
+    ],
+    [
+     null,
+     "U",
+     null,
+     "O",
+     null
+    ],
+    [
+     null,
+     "S",
+     null,
+     "S",
+     null
+    ],
+    [
+     null,
+     "E",
+     "Y",
+     "E",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 5,
+     "answer": "SOUND",
+     "clue": "What ears detect"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "EYE",
+     "clue": "Organ of sight"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 1,
+     "length": 5,
+     "answer": "HOUSE",
+     "clue": "Place to live"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 3,
+     "length": 4,
+     "answer": "NOSE",
+     "clue": "Organ of smell"
+    }
+   ]
+  },
+  {
+   "id": "en-L02-1",
+   "lang": "en",
+   "level": 2,
+   "rows": 6,
+   "cols": 6,
+   "seed": 217400,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "T"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "O"
+    ],
+    [
+     null,
+     "W",
+     null,
+     "P",
+     null,
+     "K"
+    ],
+    [
+     "V",
+     "A",
+     "L",
+     "L",
+     "E",
+     "Y"
+    ],
+    [
+     null,
+     "L",
+     null,
+     "U",
+     null,
+     "O"
+    ],
+    [
+     null,
+     "L",
+     "A",
+     "M",
+     "P",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 3,
+     "col": 0,
+     "length": 6,
+     "answer": "VALLEY",
+     "clue": "Low land between hills"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 5,
+     "col": 1,
+     "length": 4,
+     "answer": "LAMP",
+     "clue": "Source of light on a desk"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 5,
+     "answer": "TOKYO",
+     "clue": "Capital of Japan"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 2,
+     "col": 1,
+     "length": 4,
+     "answer": "WALL",
+     "clue": "Room divider"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 3,
+     "length": 4,
+     "answer": "PLUM",
+     "clue": "Purple fruit that becomes a prune"
+    }
+   ]
+  },
+  {
+   "id": "en-L03-1",
+   "lang": "en",
+   "level": 3,
+   "rows": 6,
+   "cols": 6,
+   "seed": 322129,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "R"
+    ],
+    [
+     "F",
+     "O",
+     "X",
+     null,
+     null,
+     "I"
+    ],
+    [
+     null,
+     "W",
+     null,
+     null,
+     null,
+     "D"
+    ],
+    [
+     "A",
+     "L",
+     "M",
+     "O",
+     "N",
+     "D"
+    ],
+    [
+     null,
+     null,
+     "A",
+     null,
+     null,
+     "L"
+    ],
+    [
+     null,
+     "A",
+     "P",
+     "P",
+     "L",
+     "E"
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 3,
+     "answer": "FOX",
+     "clue": "Sly animal with a bushy tail"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 3,
+     "col": 0,
+     "length": 6,
+     "answer": "ALMOND",
+     "clue": "Nut from a blossoming tree"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 5,
+     "col": 1,
+     "length": 5,
+     "answer": "APPLE",
+     "clue": "Red or green orchard fruit"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 6,
+     "answer": "RIDDLE",
+     "clue": "Question with a clever answer"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 1,
+     "length": 3,
+     "answer": "OWL",
+     "clue": "Night bird that hoots"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 2,
+     "length": 3,
+     "answer": "MAP",
+     "clue": "Guide to places"
+    }
+   ]
+  },
+  {
+   "id": "en-L04-1",
+   "lang": "en",
+   "level": 4,
+   "rows": 6,
+   "cols": 7,
+   "seed": 426858,
+   "grid": [
+    [
+     null,
+     null,
+     "A",
+     "R",
+     "T",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "N",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "O",
+     "C",
+     "T",
+     "O",
+     "P",
+     "U",
+     "S"
+    ],
+    [
+     null,
+     "O",
+     null,
+     null,
+     "E",
+     null,
+     "E"
+    ],
+    [
+     null,
+     "W",
+     null,
+     "K",
+     "N",
+     "E",
+     "E"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "D"
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 2,
+     "length": 3,
+     "answer": "ART",
+     "clue": "Painting or sculpture"
+    },
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 7,
+     "answer": "OCTOPUS",
+     "clue": "Eight-armed sea creature"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 3,
+     "length": 4,
+     "answer": "KNEE",
+     "clue": "Leg joint"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 3,
+     "answer": "ANT",
+     "clue": "Tiny hard worker in a colony"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 1,
+     "length": 3,
+     "answer": "COW",
+     "clue": "Farm animal that gives milk"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 3,
+     "answer": "PEN",
+     "clue": "Writing tool with ink"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 6,
+     "length": 4,
+     "answer": "SEED",
+     "clue": "Tiny start of a new plant"
+    }
+   ]
+  },
+  {
+   "id": "en-L05-1",
+   "lang": "en",
+   "level": 5,
+   "rows": 7,
+   "cols": 7,
+   "seed": 531587,
+   "grid": [
+    [
+     null,
+     null,
+     "S",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "C",
+     "R",
+     "O",
+     "W",
+     "N",
+     null,
+     null
+    ],
+    [
+     "U",
+     null,
+     "U",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "P",
+     null,
+     "P",
+     "E",
+     "A",
+     "C",
+     "H"
+    ],
+    [
+     null,
+     "J",
+     null,
+     "A",
+     null,
+     "H",
+     null
+    ],
+    [
+     "J",
+     "O",
+     "U",
+     "R",
+     "N",
+     "E",
+     "Y"
+    ],
+    [
+     null,
+     "Y",
+     null,
+     null,
+     null,
+     "F",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 5,
+     "answer": "CROWN",
+     "clue": "Royal headwear"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 3,
+     "col": 2,
+     "length": 5,
+     "answer": "PEACH",
+     "clue": "Fuzzy summer fruit"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 7,
+     "answer": "JOURNEY",
+     "clue": "Long trip"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 4,
+     "answer": "SOUP",
+     "clue": "Warm liquid starter"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 1,
+     "col": 0,
+     "length": 3,
+     "answer": "CUP",
+     "clue": "Tea holder"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 3,
+     "col": 3,
+     "length": 3,
+     "answer": "EAR",
+     "clue": "Organ of hearing"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 5,
+     "length": 4,
+     "answer": "CHEF",
+     "clue": "Head of the kitchen"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "JOY",
+     "clue": "Great happiness"
+    }
+   ]
+  },
+  {
+   "id": "en-L06-1",
+   "lang": "en",
+   "level": 6,
+   "rows": 8,
+   "cols": 8,
+   "seed": 636316,
+   "grid": [
+    [
+     null,
+     null,
+     "S",
+     "O",
+     "C",
+     "C",
+     "E",
+     "R"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "A",
+     null,
+     null
+    ],
+    [
+     "S",
+     "Q",
+     "U",
+     "I",
+     "R",
+     "R",
+     "E",
+     "L"
+    ],
+    [
+     "H",
+     null,
+     null,
+     null,
+     "O",
+     null,
+     "N",
+     null
+    ],
+    [
+     "I",
+     null,
+     "P",
+     "L",
+     "A",
+     "T",
+     "E",
+     null
+    ],
+    [
+     "P",
+     null,
+     "A",
+     null,
+     "D",
+     null,
+     "R",
+     null
+    ],
+    [
+     null,
+     null,
+     "L",
+     null,
+     null,
+     null,
+     "G",
+     null
+    ],
+    [
+     "L",
+     "E",
+     "M",
+     "O",
+     "N",
+     null,
+     "Y",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 2,
+     "length": 6,
+     "answer": "SOCCER",
+     "clue": "Sport with goals and a round ball"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 8,
+     "answer": "SQUIRREL",
+     "clue": "Nut-gathering tree climber"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 2,
+     "length": 5,
+     "answer": "PLATE",
+     "clue": "Flat dish for food"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 7,
+     "col": 0,
+     "length": 5,
+     "answer": "LEMON",
+     "clue": "Sour yellow fruit"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 3,
+     "answer": "CAR",
+     "clue": "Four-wheeled vehicle"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 0,
+     "length": 4,
+     "answer": "SHIP",
+     "clue": "Big sea vessel"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 4,
+     "answer": "ROAD",
+     "clue": "Route for cars"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 2,
+     "col": 6,
+     "length": 6,
+     "answer": "ENERGY",
+     "clue": "Capacity to do work"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 4,
+     "col": 2,
+     "length": 4,
+     "answer": "PALM",
+     "clue": "Tropical tree with fronds"
+    }
+   ]
+  },
+  {
+   "id": "en-L07-1",
+   "lang": "en",
+   "level": 7,
+   "rows": 8,
+   "cols": 8,
+   "seed": 741045,
+   "grid": [
+    [
+     null,
+     null,
+     "C",
+     "H",
+     "E",
+     "S",
+     "S",
+     null
+    ],
+    [
+     null,
+     "L",
+     null,
+     "O",
+     null,
+     "E",
+     null,
+     "S"
+    ],
+    [
+     "M",
+     "O",
+     "U",
+     "N",
+     "T",
+     "A",
+     "I",
+     "N"
+    ],
+    [
+     null,
+     "C",
+     null,
+     "E",
+     null,
+     null,
+     null,
+     "A"
+    ],
+    [
+     null,
+     "K",
+     "E",
+     "Y",
+     null,
+     "R",
+     null,
+     "K"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "L",
+     "O",
+     "V",
+     "E"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "E",
+     "A",
+     "R",
+     "T",
+     "H",
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 2,
+     "length": 5,
+     "answer": "CHESS",
+     "clue": "Game of kings and pawns"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 8,
+     "answer": "MOUNTAIN",
+     "clue": "Very high natural peak"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "KEY",
+     "clue": "Opens a lock"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 4,
+     "length": 4,
+     "answer": "LOVE",
+     "clue": "Deep affection"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 7,
+     "col": 2,
+     "length": 5,
+     "answer": "EARTH",
+     "clue": "Our home planet"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 5,
+     "answer": "HONEY",
+     "clue": "Sweet nectar made by bees"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 3,
+     "answer": "SEA",
+     "clue": "Salty water, smaller than an ocean"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 1,
+     "length": 4,
+     "answer": "LOCK",
+     "clue": "Guards a door"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 1,
+     "col": 7,
+     "length": 5,
+     "answer": "SNAKE",
+     "clue": "Legless reptile that hisses"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 5,
+     "length": 4,
+     "answer": "ROOT",
+     "clue": "Underground part of a plant"
+    }
+   ]
+  },
+  {
+   "id": "en-L08-1",
+   "lang": "en",
+   "level": 8,
+   "rows": 8,
+   "cols": 9,
+   "seed": 845774,
+   "grid": [
+    [
+     null,
+     "B",
+     null,
+     "E",
+     null,
+     "W",
+     null,
+     null,
+     null
+    ],
+    [
+     "P",
+     "E",
+     "N",
+     "G",
+     "U",
+     "I",
+     "N",
+     null,
+     "T"
+    ],
+    [
+     null,
+     "E",
+     null,
+     "Y",
+     null,
+     "N",
+     null,
+     null,
+     "H"
+    ],
+    [
+     "S",
+     null,
+     null,
+     "P",
+     null,
+     "D",
+     null,
+     null,
+     "U"
+    ],
+    [
+     "T",
+     "O",
+     "O",
+     "T",
+     "H",
+     null,
+     "I",
+     null,
+     "N"
+    ],
+    [
+     "O",
+     null,
+     null,
+     null,
+     "I",
+     null,
+     "R",
+     "E",
+     "D"
+    ],
+    [
+     "R",
+     null,
+     null,
+     null,
+     "L",
+     null,
+     "A",
+     null,
+     "E"
+    ],
+    [
+     "M",
+     null,
+     "M",
+     "E",
+     "L",
+     "O",
+     "N",
+     null,
+     "R"
+    ]
+   ],
+   "words": [
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 7,
+     "answer": "PENGUIN",
+     "clue": "Flightless bird of the ice"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 4,
+     "col": 0,
+     "length": 5,
+     "answer": "TOOTH",
+     "clue": "Chewing aid"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 5,
+     "col": 6,
+     "length": 3,
+     "answer": "RED",
+     "clue": "Color of a ripe cherry"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 7,
+     "col": 2,
+     "length": 5,
+     "answer": "MELON",
+     "clue": "Big sweet summer fruit"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 1,
+     "length": 3,
+     "answer": "BEE",
+     "clue": "Buzzing honey maker"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 3,
+     "length": 5,
+     "answer": "EGYPT",
+     "clue": "Land of the pyramids"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 5,
+     "length": 4,
+     "answer": "WIND",
+     "clue": "Moving air"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 1,
+     "col": 8,
+     "length": 7,
+     "answer": "THUNDER",
+     "clue": "Rumble after a flash"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 3,
+     "col": 0,
+     "length": 5,
+     "answer": "STORM",
+     "clue": "Violent weather with thunder"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 4,
+     "length": 4,
+     "answer": "HILL",
+     "clue": "Small mountain"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 4,
+     "col": 6,
+     "length": 4,
+     "answer": "IRAN",
+     "clue": "Ancient land once called Persia"
+    }
+   ]
+  },
+  {
+   "id": "en-L09-1",
+   "lang": "en",
+   "level": 9,
+   "rows": 10,
+   "cols": 9,
+   "seed": 950503,
+   "grid": [
+    [
+     null,
+     null,
+     "F",
+     null,
+     "R",
+     null,
+     "G",
+     null,
+     null
+    ],
+    [
+     "C",
+     "H",
+     "I",
+     "N",
+     "A",
+     null,
+     "A",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "N",
+     null,
+     "I",
+     null,
+     "M",
+     null,
+     null
+    ],
+    [
+     "E",
+     "N",
+     "G",
+     "I",
+     "N",
+     "E",
+     "E",
+     "R",
+     null
+    ],
+    [
+     null,
+     null,
+     "E",
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null
+    ],
+    [
+     "H",
+     "O",
+     "R",
+     "S",
+     "E",
+     null,
+     null,
+     "S",
+     null
+    ],
+    [
+     null,
+     "C",
+     null,
+     null,
+     null,
+     "D",
+     "E",
+     "E",
+     "R"
+    ],
+    [
+     "P",
+     "E",
+     "A",
+     "R",
+     null,
+     null,
+     null,
+     null,
+     "O"
+    ],
+    [
+     null,
+     "A",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "M"
+    ],
+    [
+     null,
+     "N",
+     null,
+     null,
+     "S",
+     "P",
+     "A",
+     "C",
+     "E"
+    ]
+   ],
+   "words": [
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 5,
+     "answer": "CHINA",
+     "clue": "Home of the Great Wall"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 3,
+     "col": 0,
+     "length": 8,
+     "answer": "ENGINEER",
+     "clue": "Designs machines and structures"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 5,
+     "answer": "HORSE",
+     "clue": "Animal you ride that says neigh"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 6,
+     "col": 5,
+     "length": 4,
+     "answer": "DEER",
+     "clue": "Antlered forest grazer"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 7,
+     "col": 0,
+     "length": 4,
+     "answer": "PEAR",
+     "clue": "Teardrop-shaped fruit"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 9,
+     "col": 4,
+     "length": 5,
+     "answer": "SPACE",
+     "clue": "The final frontier"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 6,
+     "answer": "FINGER",
+     "clue": "Digit on a hand"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 4,
+     "answer": "RAIN",
+     "clue": "Water falling from clouds"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 4,
+     "answer": "GAME",
+     "clue": "Play for fun"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 3,
+     "col": 7,
+     "length": 4,
+     "answer": "ROSE",
+     "clue": "Thorny flower of love"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 5,
+     "col": 1,
+     "length": 5,
+     "answer": "OCEAN",
+     "clue": "Vast body of salt water"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 6,
+     "col": 8,
+     "length": 4,
+     "answer": "ROME",
+     "clue": "The Eternal City"
+    }
+   ]
+  },
+  {
+   "id": "en-L10-1",
+   "lang": "en",
+   "level": 10,
+   "rows": 10,
+   "cols": 10,
+   "seed": 1055232,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "F",
+     "L",
+     "A",
+     "G"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "U"
+    ],
+    [
+     null,
+     "B",
+     null,
+     null,
+     "S",
+     null,
+     null,
+     null,
+     null,
+     "I"
+    ],
+    [
+     null,
+     "A",
+     null,
+     null,
+     "P",
+     null,
+     null,
+     "C",
+     "A",
+     "T"
+    ],
+    [
+     null,
+     "G",
+     "I",
+     "R",
+     "A",
+     "F",
+     "F",
+     "E",
+     null,
+     "A"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "R",
+     null,
+     null,
+     "L",
+     null,
+     "R"
+    ],
+    [
+     null,
+     "U",
+     "M",
+     "B",
+     "R",
+     "E",
+     "L",
+     "L",
+     "A",
+     null
+    ],
+    [
+     "B",
+     null,
+     "O",
+     null,
+     "O",
+     null,
+     "I",
+     null,
+     null,
+     null
+    ],
+    [
+     "U",
+     null,
+     "O",
+     null,
+     "W",
+     "O",
+     "L",
+     "F",
+     null,
+     null
+    ],
+    [
+     "S",
+     "U",
+     "N",
+     null,
+     null,
+     null,
+     "Y",
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 6,
+     "length": 4,
+     "answer": "FLAG",
+     "clue": "National banner"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 3,
+     "col": 7,
+     "length": 3,
+     "answer": "CAT",
+     "clue": "Purring house pet"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 7,
+     "answer": "GIRAFFE",
+     "clue": "Tallest land animal"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 6,
+     "col": 1,
+     "length": 8,
+     "answer": "UMBRELLA",
+     "clue": "Shield against rain"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 8,
+     "col": 4,
+     "length": 4,
+     "answer": "WOLF",
+     "clue": "Howling pack hunter"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 9,
+     "col": 0,
+     "length": 3,
+     "answer": "SUN",
+     "clue": "Our daytime star"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 9,
+     "length": 6,
+     "answer": "GUITAR",
+     "clue": "Six-stringed instrument"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 2,
+     "col": 1,
+     "length": 3,
+     "answer": "BAG",
+     "clue": "Carryall with handles"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 7,
+     "answer": "SPARROW",
+     "clue": "Small chirping city bird"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 7,
+     "length": 4,
+     "answer": "CELL",
+     "clue": "Basic unit of life"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 6,
+     "col": 2,
+     "length": 4,
+     "answer": "MOON",
+     "clue": "Earth's natural satellite"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 6,
+     "col": 6,
+     "length": 4,
+     "answer": "LILY",
+     "clue": "White flower of purity"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 7,
+     "col": 0,
+     "length": 3,
+     "answer": "BUS",
+     "clue": "Public transport on wheels"
+    }
+   ]
+  },
+  {
+   "id": "en-L11-1",
+   "lang": "en",
+   "level": 11,
+   "rows": 11,
+   "cols": 10,
+   "seed": 1159961,
+   "grid": [
+    [
+     "N",
+     "I",
+     "G",
+     "H",
+     "T",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "R",
+     "A",
+     "B",
+     "B",
+     "I",
+     "T"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "E",
+     null,
+     "E",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "C",
+     "H",
+     "E",
+     "E",
+     "T",
+     "A",
+     "H",
+     null,
+     "T"
+    ],
+    [
+     "B",
+     null,
+     "A",
+     null,
+     null,
+     null,
+     "C",
+     null,
+     null,
+     "A"
+    ],
+    [
+     "O",
+     "S",
+     "T",
+     "R",
+     "I",
+     "C",
+     "H",
+     null,
+     null,
+     "B"
+    ],
+    [
+     "O",
+     null,
+     null,
+     null,
+     null,
+     "A",
+     null,
+     "P",
+     null,
+     "L"
+    ],
+    [
+     "K",
+     null,
+     null,
+     "P",
+     null,
+     "K",
+     "N",
+     "I",
+     "F",
+     "E"
+    ],
+    [
+     null,
+     "W",
+     "H",
+     "A",
+     "L",
+     "E",
+     null,
+     "N",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "R",
+     null,
+     null,
+     null,
+     "K",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "K",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 0,
+     "length": 5,
+     "answer": "NIGHT",
+     "clue": "Dark hours"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 1,
+     "col": 4,
+     "length": 6,
+     "answer": "RABBIT",
+     "clue": "Long-eared hopper that likes carrots"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 3,
+     "col": 1,
+     "length": 7,
+     "answer": "CHEETAH",
+     "clue": "Fastest land animal"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 7,
+     "answer": "OSTRICH",
+     "clue": "Biggest bird, but it cannot fly"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 7,
+     "col": 5,
+     "length": 5,
+     "answer": "KNIFE",
+     "clue": "Sharp kitchen tool"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 8,
+     "col": 1,
+     "length": 5,
+     "answer": "WHALE",
+     "clue": "Giant of the ocean"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 4,
+     "answer": "TREE",
+     "clue": "Tall woody plant"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 6,
+     "length": 5,
+     "answer": "BEACH",
+     "clue": "Sandy shore"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 3,
+     "col": 2,
+     "length": 3,
+     "answer": "HAT",
+     "clue": "Headwear"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 9,
+     "length": 5,
+     "answer": "TABLE",
+     "clue": "Furniture for dinner"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 0,
+     "length": 4,
+     "answer": "BOOK",
+     "clue": "Bound pages of stories"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 5,
+     "col": 5,
+     "length": 4,
+     "answer": "CAKE",
+     "clue": "Birthday dessert"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 6,
+     "col": 7,
+     "length": 4,
+     "answer": "PINK",
+     "clue": "Light red"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 7,
+     "col": 3,
+     "length": 4,
+     "answer": "PARK",
+     "clue": "Green space in a city"
+    }
+   ]
+  },
+  {
+   "id": "en-L12-1",
+   "lang": "en",
+   "level": 12,
+   "rows": 11,
+   "cols": 11,
+   "seed": 1264690,
+   "grid": [
+    [
+     null,
+     null,
+     "R",
+     null,
+     "C",
+     null,
+     "F",
+     "I",
+     "S",
+     "H",
+     null
+    ],
+    [
+     null,
+     "P",
+     "I",
+     "L",
+     "O",
+     "T",
+     null,
+     null,
+     "K",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "C",
+     null,
+     "M",
+     null,
+     null,
+     null,
+     "I",
+     null,
+     null
+    ],
+    [
+     "S",
+     "H",
+     "E",
+     "E",
+     "P",
+     null,
+     "H",
+     "A",
+     "N",
+     "D",
+     null
+    ],
+    [
+     "A",
+     null,
+     null,
+     null,
+     "U",
+     null,
+     "A",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "L",
+     "I",
+     "G",
+     "H",
+     "T",
+     "N",
+     "I",
+     "N",
+     "G",
+     null,
+     null
+    ],
+    [
+     "T",
+     null,
+     "R",
+     null,
+     "E",
+     null,
+     "L",
+     null,
+     "R",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "A",
+     null,
+     "R",
+     null,
+     null,
+     "L",
+     "E",
+     "A",
+     "F"
+    ],
+    [
+     null,
+     null,
+     "S",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "E",
+     null,
+     "O"
+    ],
+    [
+     null,
+     null,
+     "S",
+     "H",
+     "I",
+     "R",
+     "T",
+     null,
+     "N",
+     null,
+     "R"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "K"
+    ]
+   ],
+   "words": [
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 0,
+     "col": 6,
+     "length": 4,
+     "answer": "FISH",
+     "clue": "Gilled swimmer"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 1,
+     "col": 1,
+     "length": 5,
+     "answer": "PILOT",
+     "clue": "Flies an aircraft"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 3,
+     "col": 0,
+     "length": 5,
+     "answer": "SHEEP",
+     "clue": "Woolly flock member"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 3,
+     "col": 6,
+     "length": 4,
+     "answer": "HAND",
+     "clue": "Has five fingers"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 9,
+     "answer": "LIGHTNING",
+     "clue": "Flash in a stormy sky"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 7,
+     "col": 7,
+     "length": 4,
+     "answer": "LEAF",
+     "clue": "Green part of a branch"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 9,
+     "col": 2,
+     "length": 5,
+     "answer": "SHIRT",
+     "clue": "Top with buttons and a collar"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 4,
+     "answer": "RICE",
+     "clue": "Staple grain grown in paddies"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 8,
+     "answer": "COMPUTER",
+     "clue": "Machine that runs programs"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 0,
+     "col": 8,
+     "length": 4,
+     "answer": "SKIN",
+     "clue": "Largest organ"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 3,
+     "col": 0,
+     "length": 4,
+     "answer": "SALT",
+     "clue": "Seasoning from the sea"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 3,
+     "col": 6,
+     "length": 4,
+     "answer": "HAIL",
+     "clue": "Frozen balls falling from the sky"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 5,
+     "col": 2,
+     "length": 5,
+     "answer": "GRASS",
+     "clue": "Green lawn cover"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 5,
+     "col": 8,
+     "length": 5,
+     "answer": "GREEN",
+     "clue": "Color of fresh grass"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 7,
+     "col": 10,
+     "length": 4,
+     "answer": "FORK",
+     "clue": "Pronged utensil"
+    }
+   ]
+  },
+  {
+   "id": "en-L13-1",
+   "lang": "en",
+   "level": 13,
+   "rows": 12,
+   "cols": 12,
+   "seed": 1369419,
+   "grid": [
+    [
+     null,
+     "P",
+     "I",
+     "N",
+     "E",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "I",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "S",
+     "A",
+     "L",
+     "A",
+     "D",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "N",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "W",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "O",
+     "A",
+     "K",
+     null,
+     null,
+     "B",
+     "R",
+     "A",
+     "Z",
+     "I",
+     "L"
+    ],
+    [
+     null,
+     null,
+     "T",
+     null,
+     "F",
+     null,
+     "O",
+     null,
+     "V",
+     null,
+     null,
+     "I"
+    ],
+    [
+     "C",
+     "H",
+     "O",
+     "C",
+     "O",
+     "L",
+     "A",
+     "T",
+     "E",
+     null,
+     null,
+     "O"
+    ],
+    [
+     "A",
+     null,
+     "M",
+     null,
+     "G",
+     null,
+     "T",
+     null,
+     null,
+     null,
+     null,
+     "N"
+    ],
+    [
+     "R",
+     null,
+     null,
+     null,
+     null,
+     "S",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "P",
+     null,
+     null,
+     null,
+     "S",
+     "H",
+     "A",
+     "D",
+     "O",
+     "W",
+     null,
+     null
+    ],
+    [
+     "E",
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "T",
+     "U",
+     "R",
+     "T",
+     "L",
+     "E",
+     null,
+     "G",
+     "R",
+     "A",
+     "P",
+     "E"
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 1,
+     "length": 4,
+     "answer": "PINE",
+     "clue": "Evergreen with needles"
+    },
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 5,
+     "answer": "SALAD",
+     "clue": "Bowl of leafy greens"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 3,
+     "answer": "OAK",
+     "clue": "Mighty tree with acorns"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 4,
+     "col": 6,
+     "length": 6,
+     "answer": "BRAZIL",
+     "clue": "Home of the Amazon and samba"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 6,
+     "col": 0,
+     "length": 9,
+     "answer": "CHOCOLATE",
+     "clue": "Sweet made from cocoa"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 9,
+     "col": 4,
+     "length": 6,
+     "answer": "SHADOW",
+     "clue": "Dark shape cast by light"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 11,
+     "col": 0,
+     "length": 6,
+     "answer": "TURTLE",
+     "clue": "Reptile that carries its shell"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 11,
+     "col": 7,
+     "length": 5,
+     "answer": "GRAPE",
+     "clue": "Vine fruit that becomes a raisin"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 1,
+     "length": 5,
+     "answer": "PIANO",
+     "clue": "Instrument with 88 keys"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 3,
+     "col": 8,
+     "length": 4,
+     "answer": "WAVE",
+     "clue": "Rolling crest of water"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 4,
+     "col": 2,
+     "length": 4,
+     "answer": "ATOM",
+     "clue": "Smallest unit of an element"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 4,
+     "col": 6,
+     "length": 4,
+     "answer": "BOAT",
+     "clue": "Small water vessel"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 4,
+     "col": 11,
+     "length": 4,
+     "answer": "LION",
+     "clue": "King of the jungle, famous for its mane"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 5,
+     "col": 4,
+     "length": 3,
+     "answer": "FOG",
+     "clue": "Low cloud that blurs your view"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 6,
+     "col": 0,
+     "length": 6,
+     "answer": "CARPET",
+     "clue": "Woven floor covering"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 8,
+     "col": 5,
+     "length": 4,
+     "answer": "SHOE",
+     "clue": "Footwear"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 9,
+     "col": 7,
+     "length": 3,
+     "answer": "DOG",
+     "clue": "Loyal barking friend"
+    }
+   ]
+  },
+  {
+   "id": "en-L14-1",
+   "lang": "en",
+   "level": 14,
+   "rows": 12,
+   "cols": 11,
+   "seed": 1474148,
+   "grid": [
+    [
+     "M",
+     "A",
+     "P",
+     "L",
+     "E",
+     null,
+     "M",
+     "O",
+     "U",
+     "S",
+     "E"
+    ],
+    [
+     null,
+     null,
+     "A",
+     null,
+     null,
+     "P",
+     null,
+     null,
+     null,
+     "P",
+     null
+    ],
+    [
+     "B",
+     "A",
+     "N",
+     "A",
+     "N",
+     "A",
+     null,
+     "H",
+     null,
+     "I",
+     null
+    ],
+    [
+     "L",
+     null,
+     "T",
+     null,
+     null,
+     "S",
+     "P",
+     "E",
+     "E",
+     "D",
+     null
+    ],
+    [
+     "U",
+     null,
+     "H",
+     null,
+     null,
+     "T",
+     null,
+     "A",
+     null,
+     "E",
+     null
+    ],
+    [
+     "E",
+     "L",
+     "E",
+     "P",
+     "H",
+     "A",
+     "N",
+     "T",
+     null,
+     "R",
+     null
+    ],
+    [
+     null,
+     null,
+     "R",
+     null,
+     "O",
+     null,
+     "U",
+     null,
+     "F",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "P",
+     "A",
+     "R",
+     "R",
+     "O",
+     "T",
+     null
+    ],
+    [
+     null,
+     "B",
+     "O",
+     "N",
+     "E",
+     null,
+     "S",
+     null,
+     "R",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "A",
+     null,
+     "P",
+     "E",
+     "A",
+     "C",
+     "E",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "I",
+     null,
+     null,
+     null,
+     null,
+     "E",
+     null,
+     null
+    ],
+    [
+     "V",
+     "I",
+     "L",
+     "L",
+     "A",
+     "G",
+     "E",
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 0,
+     "length": 5,
+     "answer": "MAPLE",
+     "clue": "Tree whose syrup tops pancakes"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 0,
+     "col": 6,
+     "length": 5,
+     "answer": "MOUSE",
+     "clue": "Small rodent that loves cheese"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 0,
+     "length": 6,
+     "answer": "BANANA",
+     "clue": "Curved yellow fruit"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 3,
+     "col": 5,
+     "length": 5,
+     "answer": "SPEED",
+     "clue": "Distance over time"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 8,
+     "answer": "ELEPHANT",
+     "clue": "Huge animal with a trunk"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 7,
+     "col": 4,
+     "length": 6,
+     "answer": "PARROT",
+     "clue": "Colorful bird that mimics speech"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 8,
+     "col": 1,
+     "length": 4,
+     "answer": "BONE",
+     "clue": "Part of the skeleton"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 9,
+     "col": 5,
+     "length": 5,
+     "answer": "PEACE",
+     "clue": "Opposite of war"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 11,
+     "col": 0,
+     "length": 7,
+     "answer": "VILLAGE",
+     "clue": "Small rural settlement"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 7,
+     "answer": "PANTHER",
+     "clue": "Black big cat"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 0,
+     "col": 9,
+     "length": 6,
+     "answer": "SPIDER",
+     "clue": "Eight-legged web spinner"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 1,
+     "col": 5,
+     "length": 5,
+     "answer": "PASTA",
+     "clue": "Italian noodles"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 0,
+     "length": 4,
+     "answer": "BLUE",
+     "clue": "Color of a clear sky"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 7,
+     "length": 4,
+     "answer": "HEAT",
+     "clue": "Warmth"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 5,
+     "col": 4,
+     "length": 4,
+     "answer": "HOPE",
+     "clue": "Optimistic feeling about the future"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 5,
+     "col": 6,
+     "length": 5,
+     "answer": "NURSE",
+     "clue": "Hospital caregiver"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 6,
+     "col": 8,
+     "length": 5,
+     "answer": "FORCE",
+     "clue": "A push or a pull"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 8,
+     "col": 3,
+     "length": 4,
+     "answer": "NAIL",
+     "clue": "Hard tip of a finger"
+    }
+   ]
+  },
+  {
+   "id": "en-L15-1",
+   "lang": "en",
+   "level": 15,
+   "rows": 13,
+   "cols": 13,
+   "seed": 1578877,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "S",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "W",
+     "I",
+     "N",
+     "D",
+     "O",
+     "W",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null,
+     "A",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "C",
+     "A",
+     "I",
+     "R",
+     "O",
+     null,
+     "N",
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "L",
+     null,
+     null,
+     null,
+     "R",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "H",
+     "I",
+     "P",
+     "P",
+     "O",
+     null,
+     "B",
+     null,
+     null,
+     "K",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "L",
+     null,
+     "C",
+     "U",
+     "R",
+     "T",
+     "A",
+     "I",
+     "N",
+     null,
+     null
+    ],
+    [
+     null,
+     "P",
+     "A",
+     "R",
+     "K",
+     null,
+     "A",
+     null,
+     null,
+     "T",
+     null,
+     null,
+     "Y"
+    ],
+    [
+     "B",
+     null,
+     "N",
+     null,
+     null,
+     "V",
+     "I",
+     "O",
+     "L",
+     "E",
+     "T",
+     null,
+     "E"
+    ],
+    [
+     "L",
+     null,
+     "E",
+     null,
+     null,
+     null,
+     "N",
+     null,
+     "U",
+     null,
+     "O",
+     null,
+     "L"
+    ],
+    [
+     "A",
+     "U",
+     "T",
+     "U",
+     "M",
+     "N",
+     null,
+     "S",
+     "N",
+     "O",
+     "W",
+     null,
+     "L"
+    ],
+    [
+     "C",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "G",
+     null,
+     "E",
+     null,
+     "O"
+    ],
+    [
+     "K",
+     "E",
+     "T",
+     "T",
+     "L",
+     "E",
+     null,
+     null,
+     null,
+     "C",
+     "R",
+     "O",
+     "W"
+    ]
+   ],
+   "words": [
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 1,
+     "col": 5,
+     "length": 6,
+     "answer": "WINDOW",
+     "clue": "Glass opening in a wall"
+    },
+    {
+     "number": 4,
+     "direction": "across",
+     "row": 3,
+     "col": 4,
+     "length": 5,
+     "answer": "CAIRO",
+     "clue": "Capital of Egypt"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 5,
+     "col": 0,
+     "length": 5,
+     "answer": "HIPPO",
+     "clue": "Heavy mammal that wallows in rivers"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 6,
+     "col": 4,
+     "length": 7,
+     "answer": "CURTAIN",
+     "clue": "Fabric across a window"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 7,
+     "col": 1,
+     "length": 4,
+     "answer": "PARK",
+     "clue": "Green space in a city"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 8,
+     "col": 5,
+     "length": 6,
+     "answer": "VIOLET",
+     "clue": "Small purple spring flower"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 10,
+     "col": 0,
+     "length": 6,
+     "answer": "AUTUMN",
+     "clue": "Season of falling leaves"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 10,
+     "col": 7,
+     "length": 4,
+     "answer": "SNOW",
+     "clue": "White winter flakes"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 12,
+     "col": 0,
+     "length": 6,
+     "answer": "KETTLE",
+     "clue": "Pot for boiling water"
+    },
+    {
+     "number": 19,
+     "direction": "across",
+     "row": 12,
+     "col": 9,
+     "length": 4,
+     "answer": "CROW",
+     "clue": "Black bird that caws"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 10,
+     "length": 4,
+     "answer": "SWAN",
+     "clue": "Graceful bird with a long curved neck"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 8,
+     "length": 4,
+     "answer": "DOOR",
+     "clue": "Opens into a room"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 3,
+     "col": 4,
+     "length": 5,
+     "answer": "CLOCK",
+     "clue": "Tells time on a wall"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 5,
+     "col": 2,
+     "length": 6,
+     "answer": "PLANET",
+     "clue": "World orbiting a star"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 5,
+     "col": 6,
+     "length": 5,
+     "answer": "BRAIN",
+     "clue": "Thinking organ"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 5,
+     "col": 9,
+     "length": 4,
+     "answer": "KITE",
+     "clue": "Flies on a string"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 7,
+     "col": 12,
+     "length": 6,
+     "answer": "YELLOW",
+     "clue": "Color of sunflowers"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 8,
+     "col": 0,
+     "length": 5,
+     "answer": "BLACK",
+     "clue": "Color of coal"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 8,
+     "col": 8,
+     "length": 4,
+     "answer": "LUNG",
+     "clue": "Breathing organ"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 8,
+     "col": 10,
+     "length": 5,
+     "answer": "TOWER",
+     "clue": "Tall slim building"
+    }
+   ]
+  },
+  {
+   "id": "en-L16-1",
+   "lang": "en",
+   "level": 16,
+   "rows": 15,
+   "cols": 15,
+   "seed": 1683606,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     "P",
+     "E",
+     "N",
+     "G",
+     "U",
+     "I",
+     "N",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "P",
+     "A",
+     "S",
+     "T",
+     "A",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "R",
+     "O",
+     "C",
+     "K",
+     "E",
+     "T",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "C",
+     "O",
+     "L",
+     "O",
+     "R",
+     null,
+     "A",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "A",
+     null,
+     null,
+     null,
+     "O",
+     null,
+     "K",
+     null,
+     null,
+     "F",
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "M",
+     null,
+     "B",
+     "U",
+     "T",
+     "T",
+     "E",
+     "R",
+     "F",
+     "L",
+     "Y",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "E",
+     null,
+     "E",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "A",
+     null,
+     null,
+     "O",
+     "W",
+     "L"
+    ],
+    [
+     "L",
+     null,
+     "D",
+     "A",
+     "T",
+     "E",
+     null,
+     "D",
+     "O",
+     "G",
+     null,
+     null,
+     null,
+     "I",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null,
+     null,
+     "L",
+     null,
+     null,
+     "S",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "P",
+     null,
+     "V",
+     null,
+     "S",
+     "O",
+     "U",
+     "N",
+     "D",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "T",
+     "I",
+     "G",
+     "E",
+     "R",
+     null,
+     "N",
+     null,
+     null,
+     "O",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "Z",
+     null,
+     null,
+     "O",
+     null,
+     "D",
+     "R",
+     "U",
+     "M",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     "Z",
+     null,
+     null,
+     "B",
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "B",
+     "A",
+     "L",
+     "L",
+     "O",
+     "O",
+     "N",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "T",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 4,
+     "length": 7,
+     "answer": "PENGUIN",
+     "clue": "Flightless bird of the ice"
+    },
+    {
+     "number": 2,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 5,
+     "answer": "PASTA",
+     "clue": "Italian noodles"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 2,
+     "col": 4,
+     "length": 6,
+     "answer": "ROCKET",
+     "clue": "Spacecraft launcher"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 3,
+     "col": 0,
+     "length": 5,
+     "answer": "COLOR",
+     "clue": "Red, blue or green"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 5,
+     "col": 2,
+     "length": 9,
+     "answer": "BUTTERFLY",
+     "clue": "Winged insect that starts as a caterpillar"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 6,
+     "col": 12,
+     "length": 3,
+     "answer": "OWL",
+     "clue": "Night bird that hoots"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 7,
+     "col": 2,
+     "length": 4,
+     "answer": "DATE",
+     "clue": "Sweet fruit of the palm"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 7,
+     "col": 7,
+     "length": 3,
+     "answer": "DOG",
+     "clue": "Loyal barking friend"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 9,
+     "col": 9,
+     "length": 5,
+     "answer": "SOUND",
+     "clue": "What ears detect"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 10,
+     "col": 4,
+     "length": 5,
+     "answer": "TIGER",
+     "clue": "Big striped cat"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 11,
+     "col": 10,
+     "length": 4,
+     "answer": "DRUM",
+     "clue": "Beaten instrument"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 13,
+     "col": 4,
+     "length": 7,
+     "answer": "BALLOON",
+     "clue": "Floats when filled with helium"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 4,
+     "length": 6,
+     "answer": "PARROT",
+     "clue": "Colorful bird that mimics speech"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 2,
+     "col": 6,
+     "length": 4,
+     "answer": "CAKE",
+     "clue": "Birthday dessert"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 3,
+     "col": 0,
+     "length": 5,
+     "answer": "CAMEL",
+     "clue": "Desert animal with humps"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 4,
+     "col": 9,
+     "length": 4,
+     "answer": "FLAG",
+     "clue": "National banner"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 5,
+     "col": 2,
+     "length": 3,
+     "answer": "BED",
+     "clue": "Where you sleep"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 6,
+     "col": 13,
+     "length": 6,
+     "answer": "WISDOM",
+     "clue": "Deep understanding"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 7,
+     "col": 7,
+     "length": 4,
+     "answer": "DOVE",
+     "clue": "Bird that stands for peace"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 8,
+     "col": 10,
+     "length": 6,
+     "answer": "LONDON",
+     "clue": "Capital on the Thames"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 9,
+     "col": 5,
+     "length": 5,
+     "answer": "PIZZA",
+     "clue": "Cheesy Italian pie"
+    },
+    {
+     "number": 16,
+     "direction": "down",
+     "row": 10,
+     "col": 8,
+     "length": 5,
+     "answer": "ROBOT",
+     "clue": "Machine that mimics people"
+    }
+   ]
+  },
+  {
+   "id": "en-L17-1",
+   "lang": "en",
+   "level": 17,
+   "rows": 13,
+   "cols": 15,
+   "seed": 1788335,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "S",
+     "K",
+     "I",
+     "N",
+     null
+    ],
+    [
+     null,
+     null,
+     "C",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "E",
+     null,
+     null,
+     "B"
+    ],
+    [
+     null,
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "B",
+     "I",
+     "C",
+     "Y",
+     "C",
+     "L",
+     "E"
+    ],
+    [
+     null,
+     null,
+     "O",
+     null,
+     null,
+     "O",
+     null,
+     "S",
+     null,
+     null,
+     "A",
+     null,
+     "O",
+     null,
+     "A"
+    ],
+    [
+     null,
+     null,
+     "K",
+     null,
+     "C",
+     "A",
+     "R",
+     "P",
+     "E",
+     "N",
+     "T",
+     "E",
+     "R",
+     null,
+     "R"
+    ],
+    [
+     null,
+     null,
+     "I",
+     null,
+     null,
+     "K",
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null,
+     "A",
+     null,
+     null
+    ],
+    [
+     "P",
+     "O",
+     "E",
+     "T",
+     null,
+     null,
+     null,
+     "O",
+     null,
+     null,
+     "S",
+     "A",
+     "L",
+     "A",
+     "D"
+    ],
+    [
+     "A",
+     null,
+     null,
+     null,
+     "B",
+     "R",
+     "A",
+     "N",
+     "C",
+     "H",
+     null,
+     null,
+     null,
+     null,
+     "E"
+    ],
+    [
+     "R",
+     "I",
+     "V",
+     "E",
+     "R",
+     null,
+     null,
+     null,
+     "I",
+     null,
+     "S",
+     null,
+     null,
+     null,
+     "E"
+    ],
+    [
+     "I",
+     null,
+     null,
+     null,
+     "E",
+     null,
+     "W",
+     null,
+     "T",
+     "H",
+     "U",
+     "N",
+     "D",
+     "E",
+     "R"
+    ],
+    [
+     "S",
+     null,
+     null,
+     "G",
+     "A",
+     "L",
+     "A",
+     "X",
+     "Y",
+     null,
+     "G",
+     null,
+     null,
+     "Y",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "D",
+     null,
+     "V",
+     null,
+     null,
+     "V",
+     "A",
+     "L",
+     "L",
+     "E",
+     "Y"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "E",
+     null,
+     null,
+     null,
+     "R",
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 10,
+     "length": 4,
+     "answer": "SKIN",
+     "clue": "Largest organ"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 8,
+     "length": 7,
+     "answer": "BICYCLE",
+     "clue": "Two-wheeler with pedals"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 4,
+     "col": 4,
+     "length": 9,
+     "answer": "CARPENTER",
+     "clue": "Woodworker"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 6,
+     "col": 0,
+     "length": 4,
+     "answer": "POET",
+     "clue": "Writer of verses"
+    },
+    {
+     "number": 12,
+     "direction": "across",
+     "row": 6,
+     "col": 10,
+     "length": 5,
+     "answer": "SALAD",
+     "clue": "Bowl of leafy greens"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 7,
+     "col": 4,
+     "length": 6,
+     "answer": "BRANCH",
+     "clue": "Limb of a tree"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 8,
+     "col": 0,
+     "length": 5,
+     "answer": "RIVER",
+     "clue": "Flowing water heading to the sea"
+    },
+    {
+     "number": 19,
+     "direction": "across",
+     "row": 9,
+     "col": 8,
+     "length": 7,
+     "answer": "THUNDER",
+     "clue": "Rumble after a flash"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 10,
+     "col": 3,
+     "length": 6,
+     "answer": "GALAXY",
+     "clue": "Huge system of stars"
+    },
+    {
+     "number": 22,
+     "direction": "across",
+     "row": 11,
+     "col": 9,
+     "length": 6,
+     "answer": "VALLEY",
+     "clue": "Low land between hills"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 11,
+     "length": 3,
+     "answer": "KEY",
+     "clue": "Opens a lock"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 2,
+     "length": 6,
+     "answer": "COOKIE",
+     "clue": "Sweet baked treat"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 14,
+     "length": 4,
+     "answer": "BEAR",
+     "clue": "Furry hibernator fond of honey"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 10,
+     "length": 3,
+     "answer": "CAT",
+     "clue": "Purring house pet"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 12,
+     "length": 5,
+     "answer": "CORAL",
+     "clue": "Colorful reef builder"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 3,
+     "col": 5,
+     "length": 3,
+     "answer": "OAK",
+     "clue": "Mighty tree with acorns"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 3,
+     "col": 7,
+     "length": 5,
+     "answer": "SPOON",
+     "clue": "Soup utensil"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 6,
+     "col": 0,
+     "length": 5,
+     "answer": "PARIS",
+     "clue": "City of the Eiffel Tower"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 6,
+     "col": 14,
+     "length": 4,
+     "answer": "DEER",
+     "clue": "Antlered forest grazer"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 7,
+     "col": 4,
+     "length": 5,
+     "answer": "BREAD",
+     "clue": "Baked loaf"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 7,
+     "col": 8,
+     "length": 4,
+     "answer": "CITY",
+     "clue": "Large town"
+    },
+    {
+     "number": 17,
+     "direction": "down",
+     "row": 8,
+     "col": 10,
+     "length": 5,
+     "answer": "SUGAR",
+     "clue": "Sweetener in a bowl"
+    },
+    {
+     "number": 18,
+     "direction": "down",
+     "row": 9,
+     "col": 6,
+     "length": 4,
+     "answer": "WAVE",
+     "clue": "Rolling crest of water"
+    },
+    {
+     "number": 20,
+     "direction": "down",
+     "row": 9,
+     "col": 13,
+     "length": 3,
+     "answer": "EYE",
+     "clue": "Organ of sight"
+    }
+   ]
+  },
+  {
+   "id": "en-L18-1",
+   "lang": "en",
+   "level": 18,
+   "rows": 13,
+   "cols": 15,
+   "seed": 1893064,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     "M",
+     "A",
+     "P",
+     null,
+     "S",
+     "K",
+     "I",
+     "N",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "A",
+     null,
+     null,
+     null,
+     "S",
+     null,
+     null,
+     null,
+     "P"
+    ],
+    [
+     null,
+     null,
+     "W",
+     "A",
+     "T",
+     "E",
+     "R",
+     "F",
+     "A",
+     "L",
+     "L",
+     null,
+     "A",
+     null,
+     "A"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "R",
+     null,
+     "I",
+     null,
+     "R",
+     null,
+     "A",
+     "N",
+     "T",
+     null,
+     "R"
+    ],
+    [
+     null,
+     null,
+     null,
+     "S",
+     "U",
+     "N",
+     "S",
+     "E",
+     "T",
+     null,
+     "N",
+     null,
+     "O",
+     "A",
+     "K"
+    ],
+    [
+     null,
+     null,
+     "P",
+     null,
+     "C",
+     null,
+     null,
+     "C",
+     null,
+     null,
+     "D",
+     null,
+     "M",
+     null,
+     null
+    ],
+    [
+     "B",
+     null,
+     "L",
+     "A",
+     "K",
+     "E",
+     null,
+     "L",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "I"
+    ],
+    [
+     "U",
+     null,
+     "U",
+     null,
+     null,
+     null,
+     null,
+     "I",
+     "N",
+     "T",
+     "E",
+     "R",
+     "N",
+     "E",
+     "T"
+    ],
+    [
+     "S",
+     "U",
+     "M",
+     "M",
+     "E",
+     "R",
+     null,
+     "P",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "A"
+    ],
+    [
+     null,
+     null,
+     null,
+     "A",
+     null,
+     "O",
+     null,
+     "S",
+     null,
+     "S",
+     "C",
+     "H",
+     "O",
+     "O",
+     "L"
+    ],
+    [
+     null,
+     null,
+     null,
+     "P",
+     "H",
+     "O",
+     "N",
+     "E",
+     null,
+     null,
+     "H",
+     null,
+     null,
+     null,
+     "Y"
+    ],
+    [
+     null,
+     null,
+     null,
+     "L",
+     null,
+     "F",
+     null,
+     null,
+     null,
+     "H",
+     "E",
+     "A",
+     "R",
+     "T",
+     null
+    ],
+    [
+     null,
+     "S",
+     "E",
+     "E",
+     "D",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "F",
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 4,
+     "length": 3,
+     "answer": "MAP",
+     "clue": "Guide to places"
+    },
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 0,
+     "col": 8,
+     "length": 4,
+     "answer": "SKIN",
+     "clue": "Largest organ"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 9,
+     "answer": "WATERFALL",
+     "clue": "Water dropping from a height"
+    },
+    {
+     "number": 10,
+     "direction": "across",
+     "row": 3,
+     "col": 10,
+     "length": 3,
+     "answer": "ANT",
+     "clue": "Tiny hard worker in a colony"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 4,
+     "col": 3,
+     "length": 6,
+     "answer": "SUNSET",
+     "clue": "Evening sky show"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 4,
+     "col": 12,
+     "length": 3,
+     "answer": "OAK",
+     "clue": "Mighty tree with acorns"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 6,
+     "col": 2,
+     "length": 4,
+     "answer": "LAKE",
+     "clue": "Water body surrounded by land"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 7,
+     "col": 7,
+     "length": 8,
+     "answer": "INTERNET",
+     "clue": "Global network of computers"
+    },
+    {
+     "number": 19,
+     "direction": "across",
+     "row": 8,
+     "col": 0,
+     "length": 6,
+     "answer": "SUMMER",
+     "clue": "Hottest season"
+    },
+    {
+     "number": 22,
+     "direction": "across",
+     "row": 9,
+     "col": 9,
+     "length": 6,
+     "answer": "SCHOOL",
+     "clue": "Place to learn"
+    },
+    {
+     "number": 24,
+     "direction": "across",
+     "row": 10,
+     "col": 3,
+     "length": 5,
+     "answer": "PHONE",
+     "clue": "Pocket-sized communicator"
+    },
+    {
+     "number": 25,
+     "direction": "across",
+     "row": 11,
+     "col": 9,
+     "length": 5,
+     "answer": "HEART",
+     "clue": "Pumping organ"
+    },
+    {
+     "number": 26,
+     "direction": "across",
+     "row": 12,
+     "col": 1,
+     "length": 4,
+     "answer": "SEED",
+     "clue": "Tiny start of a new plant"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 6,
+     "length": 5,
+     "answer": "PARIS",
+     "clue": "City of the Eiffel Tower"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 0,
+     "col": 10,
+     "length": 6,
+     "answer": "ISLAND",
+     "clue": "Land surrounded by water"
+    },
+    {
+     "number": 5,
+     "direction": "down",
+     "row": 1,
+     "col": 14,
+     "length": 4,
+     "answer": "PARK",
+     "clue": "Green space in a city"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 4,
+     "length": 5,
+     "answer": "TRUCK",
+     "clue": "Heavy hauler"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 2,
+     "col": 8,
+     "length": 3,
+     "answer": "ART",
+     "clue": "Painting or sculpture"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 2,
+     "col": 12,
+     "length": 4,
+     "answer": "ATOM",
+     "clue": "Smallest unit of an element"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 4,
+     "col": 7,
+     "length": 7,
+     "answer": "ECLIPSE",
+     "clue": "When one heavenly body hides another"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 5,
+     "col": 2,
+     "length": 4,
+     "answer": "PLUM",
+     "clue": "Purple fruit that becomes a prune"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 6,
+     "col": 0,
+     "length": 3,
+     "answer": "BUS",
+     "clue": "Public transport on wheels"
+    },
+    {
+     "number": 17,
+     "direction": "down",
+     "row": 6,
+     "col": 14,
+     "length": 5,
+     "answer": "ITALY",
+     "clue": "Country shaped like a boot"
+    },
+    {
+     "number": 20,
+     "direction": "down",
+     "row": 8,
+     "col": 3,
+     "length": 5,
+     "answer": "MAPLE",
+     "clue": "Tree whose syrup tops pancakes"
+    },
+    {
+     "number": 21,
+     "direction": "down",
+     "row": 8,
+     "col": 5,
+     "length": 4,
+     "answer": "ROOF",
+     "clue": "Top of a building"
+    },
+    {
+     "number": 23,
+     "direction": "down",
+     "row": 9,
+     "col": 10,
+     "length": 4,
+     "answer": "CHEF",
+     "clue": "Head of the kitchen"
+    }
+   ]
+  },
+  {
+   "id": "en-L19-1",
+   "lang": "en",
+   "level": 19,
+   "rows": 17,
+   "cols": 13,
+   "seed": 1997793,
+   "grid": [
+    [
+     "S",
+     null,
+     "T",
+     null,
+     null,
+     "R",
+     "O",
+     "O",
+     "T",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     "T",
+     "O",
+     "O",
+     "T",
+     "H",
+     null,
+     null,
+     "A",
+     null,
+     "D",
+     null,
+     null,
+     null
+    ],
+    [
+     "A",
+     null,
+     "K",
+     null,
+     null,
+     "B",
+     "A",
+     "K",
+     "E",
+     "R",
+     null,
+     null,
+     null
+    ],
+    [
+     "R",
+     null,
+     "Y",
+     null,
+     null,
+     "E",
+     null,
+     null,
+     null,
+     "I",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "S",
+     "O",
+     "C",
+     "C",
+     "E",
+     "R",
+     null,
+     null,
+     "V",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "L",
+     null,
+     "E",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     "U",
+     null,
+     "S",
+     null,
+     null,
+     null,
+     "E",
+     "A",
+     "R",
+     null,
+     "S",
+     null
+    ],
+    [
+     null,
+     "P",
+     "R",
+     "O",
+     "G",
+     "R",
+     "A",
+     "M",
+     null,
+     null,
+     "H",
+     "A",
+     "T"
+    ],
+    [
+     null,
+     null,
+     null,
+     "U",
+     null,
+     "O",
+     null,
+     "O",
+     null,
+     null,
+     null,
+     "I",
+     null
+    ],
+    [
+     "M",
+     "O",
+     "U",
+     "N",
+     "T",
+     "A",
+     "I",
+     "N",
+     null,
+     null,
+     null,
+     "L",
+     null
+    ],
+    [
+     "E",
+     null,
+     null,
+     "D",
+     null,
+     "D",
+     null,
+     null,
+     null,
+     "P",
+     null,
+     "O",
+     null
+    ],
+    [
+     "L",
+     null,
+     null,
+     null,
+     "L",
+     null,
+     null,
+     null,
+     "B",
+     "E",
+     "A",
+     "R",
+     null
+    ],
+    [
+     "O",
+     "S",
+     "T",
+     "R",
+     "I",
+     "C",
+     "H",
+     null,
+     null,
+     "P",
+     null,
+     null,
+     null
+    ],
+    [
+     "N",
+     null,
+     null,
+     null,
+     "O",
+     null,
+     null,
+     "C",
+     "U",
+     "P",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "C",
+     "A",
+     "N",
+     "A",
+     "D",
+     "A",
+     null,
+     "E",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null,
+     "V",
+     null,
+     "R",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "W",
+     null,
+     "H",
+     "O",
+     "N",
+     "E",
+     "Y",
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 3,
+     "direction": "across",
+     "row": 0,
+     "col": 5,
+     "length": 4,
+     "answer": "ROOT",
+     "clue": "Underground part of a plant"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 1,
+     "col": 0,
+     "length": 5,
+     "answer": "TOOTH",
+     "clue": "Chewing aid"
+    },
+    {
+     "number": 7,
+     "direction": "across",
+     "row": 2,
+     "col": 5,
+     "length": 5,
+     "answer": "BAKER",
+     "clue": "Bread maker"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 4,
+     "col": 1,
+     "length": 6,
+     "answer": "SOCCER",
+     "clue": "Sport with goals and a round ball"
+    },
+    {
+     "number": 11,
+     "direction": "across",
+     "row": 6,
+     "col": 7,
+     "length": 3,
+     "answer": "EAR",
+     "clue": "Organ of hearing"
+    },
+    {
+     "number": 13,
+     "direction": "across",
+     "row": 7,
+     "col": 1,
+     "length": 7,
+     "answer": "PROGRAM",
+     "clue": "Instructions for a computer"
+    },
+    {
+     "number": 15,
+     "direction": "across",
+     "row": 7,
+     "col": 10,
+     "length": 3,
+     "answer": "HAT",
+     "clue": "Headwear"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 9,
+     "col": 0,
+     "length": 8,
+     "answer": "MOUNTAIN",
+     "clue": "Very high natural peak"
+    },
+    {
+     "number": 19,
+     "direction": "across",
+     "row": 11,
+     "col": 8,
+     "length": 4,
+     "answer": "BEAR",
+     "clue": "Furry hibernator fond of honey"
+    },
+    {
+     "number": 20,
+     "direction": "across",
+     "row": 12,
+     "col": 0,
+     "length": 7,
+     "answer": "OSTRICH",
+     "clue": "Biggest bird, but it cannot fly"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 13,
+     "col": 7,
+     "length": 3,
+     "answer": "CUP",
+     "clue": "Tea holder"
+    },
+    {
+     "number": 22,
+     "direction": "across",
+     "row": 14,
+     "col": 2,
+     "length": 6,
+     "answer": "CANADA",
+     "clue": "Maple leaf nation"
+    },
+    {
+     "number": 23,
+     "direction": "across",
+     "row": 16,
+     "col": 4,
+     "length": 5,
+     "answer": "HONEY",
+     "clue": "Sweet nectar made by bees"
+    },
+    {
+     "number": 1,
+     "direction": "down",
+     "row": 0,
+     "col": 0,
+     "length": 4,
+     "answer": "STAR",
+     "clue": "Twinkling point in the night sky"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 2,
+     "length": 5,
+     "answer": "TOKYO",
+     "clue": "Capital of Japan"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 0,
+     "col": 7,
+     "length": 3,
+     "answer": "OAK",
+     "clue": "Mighty tree with acorns"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 1,
+     "col": 9,
+     "length": 6,
+     "answer": "DRIVER",
+     "clue": "Person at the wheel"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 5,
+     "length": 3,
+     "answer": "BEE",
+     "clue": "Buzzing honey maker"
+    },
+    {
+     "number": 8,
+     "direction": "down",
+     "row": 4,
+     "col": 1,
+     "length": 4,
+     "answer": "SOUP",
+     "clue": "Warm liquid starter"
+    },
+    {
+     "number": 9,
+     "direction": "down",
+     "row": 5,
+     "col": 7,
+     "length": 5,
+     "answer": "LEMON",
+     "clue": "Sour yellow fruit"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 6,
+     "col": 3,
+     "length": 5,
+     "answer": "SOUND",
+     "clue": "What ears detect"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 6,
+     "col": 11,
+     "length": 6,
+     "answer": "SAILOR",
+     "clue": "Ship crew member"
+    },
+    {
+     "number": 14,
+     "direction": "down",
+     "row": 7,
+     "col": 5,
+     "length": 4,
+     "answer": "ROAD",
+     "clue": "Route for cars"
+    },
+    {
+     "number": 16,
+     "direction": "down",
+     "row": 9,
+     "col": 0,
+     "length": 5,
+     "answer": "MELON",
+     "clue": "Big sweet summer fruit"
+    },
+    {
+     "number": 17,
+     "direction": "down",
+     "row": 10,
+     "col": 9,
+     "length": 6,
+     "answer": "PEPPER",
+     "clue": "Spice that makes you sneeze"
+    },
+    {
+     "number": 18,
+     "direction": "down",
+     "row": 11,
+     "col": 4,
+     "length": 4,
+     "answer": "LION",
+     "clue": "King of the jungle, famous for its mane"
+    },
+    {
+     "number": 21,
+     "direction": "down",
+     "row": 13,
+     "col": 7,
+     "length": 4,
+     "answer": "CAVE",
+     "clue": "Hollow in a mountainside"
+    },
+    {
+     "number": 22,
+     "direction": "down",
+     "row": 14,
+     "col": 2,
+     "length": 3,
+     "answer": "COW",
+     "clue": "Farm animal that gives milk"
+    }
+   ]
+  },
+  {
+   "id": "en-L20-1",
+   "lang": "en",
+   "level": 20,
+   "rows": 15,
+   "cols": 16,
+   "seed": 2102522,
+   "grid": [
+    [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "B",
+     "U",
+     "T",
+     "T",
+     "E",
+     "R",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     "J",
+     null,
+     "M",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "M",
+     "O",
+     "V",
+     "I",
+     "E",
+     null,
+     "P",
+     "L",
+     "U",
+     "M",
+     null,
+     null,
+     null,
+     "P"
+    ],
+    [
+     null,
+     null,
+     null,
+     "Y",
+     null,
+     "R",
+     null,
+     null,
+     "E",
+     null,
+     null,
+     "E",
+     "A",
+     "G",
+     "L",
+     "E"
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "C",
+     "R",
+     "O",
+     "W",
+     "N",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "A"
+    ],
+    [
+     null,
+     null,
+     "D",
+     null,
+     null,
+     "O",
+     null,
+     "O",
+     null,
+     "B",
+     null,
+     null,
+     "B",
+     null,
+     null,
+     "C"
+    ],
+    [
+     null,
+     null,
+     "U",
+     "M",
+     "B",
+     "R",
+     "E",
+     "L",
+     "L",
+     "A",
+     null,
+     "R",
+     "E",
+     "D",
+     null,
+     "H"
+    ],
+    [
+     null,
+     null,
+     "C",
+     null,
+     "R",
+     null,
+     null,
+     "F",
+     null,
+     "G",
+     null,
+     null,
+     "A",
+     null,
+     null,
+     null
+    ],
+    [
+     null,
+     null,
+     "K",
+     "N",
+     "E",
+     "E",
+     null,
+     null,
+     null,
+     null,
+     "C",
+     "A",
+     "R",
+     null,
+     "T",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "E",
+     null,
+     "R",
+     "A",
+     "I",
+     "N",
+     null,
+     "L",
+     null,
+     null,
+     "A",
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     "Z",
+     null,
+     "O",
+     null,
+     null,
+     null,
+     null,
+     "M",
+     "U",
+     "S",
+     "I",
+     "C"
+    ],
+    [
+     null,
+     null,
+     "C",
+     "H",
+     "E",
+     "E",
+     "S",
+     "E",
+     null,
+     "D",
+     null,
+     "O",
+     null,
+     null,
+     "L",
+     null
+    ],
+    [
+     null,
+     "K",
+     null,
+     "I",
+     null,
+     null,
+     "E",
+     null,
+     "M",
+     "O",
+     "O",
+     "N",
+     null,
+     null,
+     "O",
+     null
+    ],
+    [
+     "C",
+     "E",
+     "L",
+     "L",
+     null,
+     null,
+     null,
+     null,
+     null,
+     "O",
+     null,
+     "D",
+     "E",
+     "E",
+     "R",
+     null
+    ],
+    [
+     null,
+     "Y",
+     null,
+     "L",
+     "O",
+     "B",
+     "S",
+     "T",
+     "E",
+     "R",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   ],
+   "words": [
+    {
+     "number": 1,
+     "direction": "across",
+     "row": 0,
+     "col": 6,
+     "length": 6,
+     "answer": "BUTTER",
+     "clue": "Churned cream spread"
+    },
+    {
+     "number": 5,
+     "direction": "across",
+     "row": 2,
+     "col": 2,
+     "length": 5,
+     "answer": "MOVIE",
+     "clue": "Film at the cinema"
+    },
+    {
+     "number": 6,
+     "direction": "across",
+     "row": 2,
+     "col": 8,
+     "length": 4,
+     "answer": "PLUM",
+     "clue": "Purple fruit that becomes a prune"
+    },
+    {
+     "number": 8,
+     "direction": "across",
+     "row": 3,
+     "col": 11,
+     "length": 5,
+     "answer": "EAGLE",
+     "clue": "Bird of prey with a huge wingspan"
+    },
+    {
+     "number": 9,
+     "direction": "across",
+     "row": 4,
+     "col": 4,
+     "length": 5,
+     "answer": "CROWN",
+     "clue": "Royal headwear"
+    },
+    {
+     "number": 14,
+     "direction": "across",
+     "row": 6,
+     "col": 2,
+     "length": 8,
+     "answer": "UMBRELLA",
+     "clue": "Shield against rain"
+    },
+    {
+     "number": 16,
+     "direction": "across",
+     "row": 6,
+     "col": 11,
+     "length": 3,
+     "answer": "RED",
+     "clue": "Color of a ripe cherry"
+    },
+    {
+     "number": 17,
+     "direction": "across",
+     "row": 8,
+     "col": 2,
+     "length": 4,
+     "answer": "KNEE",
+     "clue": "Leg joint"
+    },
+    {
+     "number": 18,
+     "direction": "across",
+     "row": 8,
+     "col": 10,
+     "length": 3,
+     "answer": "CAR",
+     "clue": "Four-wheeled vehicle"
+    },
+    {
+     "number": 21,
+     "direction": "across",
+     "row": 9,
+     "col": 6,
+     "length": 4,
+     "answer": "RAIN",
+     "clue": "Water falling from clouds"
+    },
+    {
+     "number": 22,
+     "direction": "across",
+     "row": 10,
+     "col": 11,
+     "length": 5,
+     "answer": "MUSIC",
+     "clue": "Melody and rhythm"
+    },
+    {
+     "number": 23,
+     "direction": "across",
+     "row": 11,
+     "col": 2,
+     "length": 6,
+     "answer": "CHEESE",
+     "clue": "Dairy product made from curds"
+    },
+    {
+     "number": 27,
+     "direction": "across",
+     "row": 12,
+     "col": 8,
+     "length": 4,
+     "answer": "MOON",
+     "clue": "Earth's natural satellite"
+    },
+    {
+     "number": 28,
+     "direction": "across",
+     "row": 13,
+     "col": 0,
+     "length": 4,
+     "answer": "CELL",
+     "clue": "Basic unit of life"
+    },
+    {
+     "number": 29,
+     "direction": "across",
+     "row": 13,
+     "col": 11,
+     "length": 4,
+     "answer": "DEER",
+     "clue": "Antlered forest grazer"
+    },
+    {
+     "number": 30,
+     "direction": "across",
+     "row": 14,
+     "col": 3,
+     "length": 7,
+     "answer": "LOBSTER",
+     "clue": "Red sea creature with claws"
+    },
+    {
+     "number": 2,
+     "direction": "down",
+     "row": 0,
+     "col": 11,
+     "length": 4,
+     "answer": "ROME",
+     "clue": "The Eternal City"
+    },
+    {
+     "number": 3,
+     "direction": "down",
+     "row": 1,
+     "col": 3,
+     "length": 3,
+     "answer": "JOY",
+     "clue": "Great happiness"
+    },
+    {
+     "number": 4,
+     "direction": "down",
+     "row": 1,
+     "col": 5,
+     "length": 6,
+     "answer": "MIRROR",
+     "clue": "Shows your reflection"
+    },
+    {
+     "number": 6,
+     "direction": "down",
+     "row": 2,
+     "col": 8,
+     "length": 3,
+     "answer": "PEN",
+     "clue": "Writing tool with ink"
+    },
+    {
+     "number": 7,
+     "direction": "down",
+     "row": 2,
+     "col": 15,
+     "length": 5,
+     "answer": "PEACH",
+     "clue": "Fuzzy summer fruit"
+    },
+    {
+     "number": 10,
+     "direction": "down",
+     "row": 4,
+     "col": 7,
+     "length": 4,
+     "answer": "WOLF",
+     "clue": "Howling pack hunter"
+    },
+    {
+     "number": 11,
+     "direction": "down",
+     "row": 5,
+     "col": 2,
+     "length": 4,
+     "answer": "DUCK",
+     "clue": "Quacking pond swimmer"
+    },
+    {
+     "number": 12,
+     "direction": "down",
+     "row": 5,
+     "col": 9,
+     "length": 3,
+     "answer": "BAG",
+     "clue": "Carryall with handles"
+    },
+    {
+     "number": 13,
+     "direction": "down",
+     "row": 5,
+     "col": 12,
+     "length": 4,
+     "answer": "BEAR",
+     "clue": "Furry hibernator fond of honey"
+    },
+    {
+     "number": 15,
+     "direction": "down",
+     "row": 6,
+     "col": 4,
+     "length": 6,
+     "answer": "BREEZE",
+     "clue": "Gentle wind"
+    },
+    {
+     "number": 19,
+     "direction": "down",
+     "row": 8,
+     "col": 11,
+     "length": 6,
+     "answer": "ALMOND",
+     "clue": "Nut from a blossoming tree"
+    },
+    {
+     "number": 20,
+     "direction": "down",
+     "row": 8,
+     "col": 14,
+     "length": 6,
+     "answer": "TAILOR",
+     "clue": "Sews suits"
+    },
+    {
+     "number": 21,
+     "direction": "down",
+     "row": 9,
+     "col": 6,
+     "length": 4,
+     "answer": "ROSE",
+     "clue": "Thorny flower of love"
+    },
+    {
+     "number": 24,
+     "direction": "down",
+     "row": 11,
+     "col": 3,
+     "length": 4,
+     "answer": "HILL",
+     "clue": "Small mountain"
+    },
+    {
+     "number": 25,
+     "direction": "down",
+     "row": 11,
+     "col": 9,
+     "length": 4,
+     "answer": "DOOR",
+     "clue": "Opens into a room"
+    },
+    {
+     "number": 26,
+     "direction": "down",
+     "row": 12,
+     "col": 1,
+     "length": 3,
+     "answer": "KEY",
+     "clue": "Opens a lock"
+    }
+   ]
+  }
+ ]
+}

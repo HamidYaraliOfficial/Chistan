@@ -1,0 +1,15 @@
+{
+  "name": "chistan-crossword",
+  "version": "1.0.0",
+  "description": "Chistan: a bilingual (Persian and English) crossword game with random, non-repeating puzzles and 20 levels. No dependencies, no build step.",
+  "keywords": ["crossword", "persian", "farsi", "game", "puzzle", "javascript", "rtl", "جدول", "چیستان"],
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node tools/serve.js",
+    "test": "node tests/verify.js",
+    "test:quick": "node tests/verify.js --quick",
+    "export": "node tools/export-puzzles.js"
+  },
+  "engines": { "node": ">=16" }
+}
